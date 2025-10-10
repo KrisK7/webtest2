@@ -1,0 +1,37 @@
+// Utility classes for quick styling
+
+// Container Utilities
+// ====================
+
+.container-sm { max-width: 650px; }
+.container-md { max-width: 800px; }
+.container-lg { max-width: 1000px; }
+.container-xl { max-width: 1200px; }
+
+// Text utilities
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+// Theme color mixins for easy dark/light mode support
+@mixin theme-colors($property, $light-value, $dark-value) {
+  #{$property}: $light-value;
+
+  @media (prefers-color-scheme: dark) {
+    #{$property}: $dark-value;
+  }
+
+  @media (prefers-color-scheme: light) {
+    #{$property}: $light-value;
+  }
+
+  [data-theme=dark] & {
+    #{$property}: $dark-value;
+  }
+
+  [data-theme=light] & {
+    #{$property}: $light-value;
+  }
+}
+
+

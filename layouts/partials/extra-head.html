@@ -1,0 +1,4 @@
+{{/* Load your custom SCSS */}}
+{{ $scssOptions := dict "targetPath" "css/custom.css" "outputStyle" "compressed" }}
+{{ $scssMain := resources.Get "scss/main.scss" | css.Sass $scssOptions | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $scssMain.RelPermalink }}" integrity="{{ $scssMain.Data.Integrity }}" crossorigin="anonymous">

@@ -1,0 +1,33 @@
+---
+title: "Code Examples"
+layout: "dev-reference" 
+description: "HTML and SCSS implementation examples"
+menu:
+  main:
+    parent: "dev-reference"
+    weight: 120
+---
+
+# Code Implementation
+
+## Basic Page Structure
+
+### Homepage Template
+Example of the main homepage layout with post listings.
+
+### Article Template
+Complete article layout with meta information and related content.
+
+### Section Archives
+Template for category and tag archive pages.
+
+## SCSS Architecture
+
+### Mixin Usage
+Practical examples of using theme mixins in components.
+
+### Responsive Patterns
+Media query usage and responsive design techniques.
+
+### Custom Component Creation
+Step-by-step guide to creating new components.

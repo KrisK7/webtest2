@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Uisge Beatha</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in Abouts on Uisge Beatha</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 22 Sep 2025 20:35:10 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 22 Sep 2025 20:35:10 +0100</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;Uisge Beatha is a new whisky themed blog and product comparison site created with the joint aims of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA; &#x9;&lt;li&gt;Demystifying whisky and bringing greater transparency around industry practices&lt;/li&gt;&#xA; &#x9;&lt;li&gt;Offering guidance to whisky consumers starting on  their journey&lt;/li&gt;&#xA; &#x9;&lt;li&gt;Offering consumers access to the best whisky deals and prices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-is-uisge-beatha&#34;&gt;What is Uisge Beatha?&lt;/h3&gt;&#xA;&lt;p&gt;The phrase Uisge Beatha is the origin of the word whisky and means the water of life. Aqua vitae is an archaic name for a concentrated aqueous solution of ethanol widely used during the Middle Ages and the Renaissance, the Scots Gaelic equivelent of this phrase is Uisge Beatha, the Irish version is Uisce Beatha. As with every aspect of the Scots vs. Irish debate which one came first is hotly contested.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

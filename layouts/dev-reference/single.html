@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    {{ partial "head.html" . }}
+</head>
+<body>
+    {{ partial "header.html" . }}
+    
+    <main class="dev-reference">
+        <div class="home-container">  <!-- Changed from .container to .home-container -->
+            <header class="dev-header">
+                <h1>{{ .Title }}</h1>
+                <p>{{ .Description }}</p>
+            </header>
+
+            <!-- Color Tokens Section -->
+            <section class="dev-section">
+                <h2>Color Palette</h2>
+                <div class="color-grid">
+                    <!-- Light Theme Colors -->
+                    <div class="color-item">
+                        <div class="color-swatch light-bg"></div>
+                        <div class="color-info">
+                            <strong>$light-background</strong>
+                            <code>#fff</code>
+                            <small>Primary background</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch light-bg-secondary"></div>
+                        <div class="color-info">
+                            <strong>$light-background-secondary</strong>
+                            <code>#eaeaea</code>
+                            <small>Cards, secondary elements</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch light-color">Aa</div>
+                        <div class="color-info">
+                            <strong>$light-color</strong>
+                            <code>#222</code>
+                            <small>Primary text color</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch light-color-secondary">Aa</div>
+                        <div class="color-info">
+                            <strong>$light-color-secondary</strong>
+                            <code>#999</code>
+                            <small>Secondary text</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch light-border"></div>
+                        <div class="color-info">
+                            <strong>$light-border-color</strong>
+                            <code>#dcdcdc</code>
+                            <small>Borders, dividers</small>
+                        </div>
+                    </div>
+
+                    <!-- Dark Theme Colors -->
+                    <div class="color-item">
+                        <div class="color-swatch dark-bg">Aa</div>
+                        <div class="color-info">
+                            <strong>$dark-background</strong>
+                            <code>#232425</code>
+                            <small>Primary background</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch dark-bg-secondary">Aa</div>
+                        <div class="color-info">
+                            <strong>$dark-background-secondary</strong>
+                            <code>#3b3d42</code>
+                            <small>Cards, secondary elements</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch dark-color">Aa</div>
+                        <div class="color-info">
+                            <strong>$dark-color</strong>
+                            <code>#a9a9b3</code>
+                            <small>Primary text color</small>
+                        </div>
+                    </div>
+                    <div class="color-item">
+                        <div class="color-swatch dark-border"></div>
+                        <div class="color-info">
+                            <strong>$dark-border-color</strong>
+                            <code>#4e4e57</code>
+                            <small>Borders, dividers</small>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Typography Section -->
+            <section class="dev-section">
+                <h2>Typography</h2>
+                <div class="typography-showcase">
+                    <div class="type-item">
+                        <h1>Heading 1</h1>
+                        <p>2.625rem · Semibold · Primary color</p>
+                    </div>
+                    <div class="type-item">
+                        <h2>Heading 2</h2>
+                        <p>1.625rem · Semibold · Primary color</p>
+                    </div>
+                    <div class="type-item">
+                        <h3>Heading 3</h3>
+                        <p>1.375rem · Semibold · Primary color</p>
+                    </div>
+                    <div class="type-item">
+                        <div class="body-text">Body text at 1rem with 1.54 line height</div>
+                        <p>1rem · Regular · Primary color · Line height 1.54</p>
+                    </div>
+                    <div class="type-item">
+                        <div class="secondary-text">Secondary text example</div>
+                        <p>0.9rem · Regular · Secondary color</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Components Section -->
+            <section class="dev-section">
+                <h2>UI Components</h2>
+                
+                <div class="component-group">
+                    <h3>Post Cards</h3>
+                    <div class="posts-list">
+                        <article class="post-card">
+                            <h3 class="post-title">
+                                <a href="#">Example Post Title</a>
+                            </h3>
+                            <div class="post-meta">
+                                <time datetime="2023-10-27">October 27, 2023</time>
+                                <span class="post-categories">
+                                    in <a href="#">Technology</a>
+                                </span>
+                            </div>
+                            <div class="post-summary">
+                                <p>This is an example of a post summary that shows how the card component looks with actual content. The card has hover effects and proper spacing.</p>
+                                <a href="#" class="read-more">Read more</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="component-group">
+                    <h3>Buttons & Links</h3>
+                    <div class="button-showcase">
+                        <a href="#" class="read-more">Read More Link</a>
+                        <button class="btn-primary">Primary Button</button>
+                        <button class="btn-secondary">Secondary Button</button>
+                    </div>
+                </div>
+
+                <div class="component-group">
+                    <h3>Homepage Elements</h3>
+                    <div class="homepage-showcase">
+                        <div class="home-portrait"></div>
+                        <h1 class="home-title">Site Title Example</h1>
+                        <div class="home-social">
+                            <div class="social-links">
+                                <a href="#">Twitter</a>
+                                <a href="#">GitHub</a>
+                                <a href="#">LinkedIn</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Mixins & Utilities Section -->
+            <section class="dev-section">
+                <h2>SCSS Mixins & Utilities</h2>
+                <div class="code-reference">
+                    <h3>Available Mixins:</h3>
+                    <ul>
+                        <li><code>@include background-primary</code></li>
+                        <li><code>@include background-secondary</code></li>
+                        <li><code>@include color-primary</code></li>
+                        <li><code>@include color-secondary</code></li>
+                        <li><code>@include border-color</code></li>
+                    </ul>
+                    
+                    <h3>Container Sizes:</h3>
+                    <ul>
+                        <li><strong>Home Container:</strong> 800px (900px on tablet, 1000px on desktop)</li>
+                        <li><strong>Content Max Width:</strong> 860px</li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

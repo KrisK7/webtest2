@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="portfolio-list">
+    <h1>{{ .Title }}</h1>
+    <div class="projects-grid">
+        {{ range .Pages }}
+        <article class="project-card">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.featured_image }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            {{ end }}
+            <p>{{ .Description }}</p>
+            <div class="technologies">
+                {{ range .Params.technologies }}
+                <span class="tech-tag">{{ . }}</span>
+                {{ end }}
+            </div>
+            <a href="{{ .RelPermalink }}" class="btn">View Project</a>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

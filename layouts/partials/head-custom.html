@@ -1,0 +1,3 @@
+{{ $options := dict "targetPath" "css/custom.css" "outputStyle" "compressed" }}
+{{ $customSCSS := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $customSCSS.RelPermalink }}" integrity="{{ $customSCSS.Data.Integrity }}">

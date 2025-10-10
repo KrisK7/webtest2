@@ -1,0 +1,32 @@
+<nav class="menu">
+    <ul class="menu__inner">
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main -}}
+            {{- if .HasChildren }}
+                <li class="menu__item--has-children">
+                    <a href="{{ .URL | relLangURL }}">{{ .Name }} ▼</a>
+                    <ul class="submenu">
+                        {{ range .Children -}}
+                        <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                        {{- end }}
+                    </ul>
+                </li>
+            {{- else }}
+                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{- end }}
+        {{- end }}
+
+        {{- if .Site.Params.EnableGlobalLanguageMenu }}
+        <li class="menu__item--has-children"> <!-- Wrapping the language menu in an <li> for consistency -->
+            <a href="javascript:void(0)" class="dropbtn">{{ .Language }}</a>
+            <ul class="submenu">
+                {{- if hugo.IsMultilingual }}
+                    {{ range $.Translations }}
+                        <li><a title="{{ .Language }}" href="{{ .Permalink }}">{{ .Language }}</a></li>
+                    {{ end }}
+                {{- end }}
+            </ul>
+        </li>
+        {{- end }}
+    </ul>
+</nav>

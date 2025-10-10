@@ -1,0 +1,88 @@
+baseurl              = "krisk7.github.io"
+title                = "Whisky Price comparison | Get the cheapest prices here | Uisge Beatha"
+languageCode         = "en-gb"
+theme                = "hello-friend-ng"
+pagination.paperSize = 10
+enableRobotsTXT = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  homeSubtitle = "Whisky Price comparison"
+  disableReadOtherPosts = false
+  enableSharingButtons = true
+  enableGlobalLanguageMenu = false
+  # Metadata mostly used in document's head
+  description = "Whisky Price comparison | Get the cheapest prices here | Uisge Beatha"
+  keywords = "homepage, blog"
+  images = [""]
+  defaultFeaturedImage = "/images/default-social.jpg"
+
+[taxonomies]
+    category = 'categories'
+    tag      = "tags"
+    series   = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[languages]
+  [languages.en]
+    title = "Uisge Beatha"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    subtitle  = "Whisky Price comparison"
+
+    [languages.en.params.logo]
+    # logoText = "Uisge Beatha"
+    # logoHomeLink = "/"
+    # or
+    #
+    path = "/img/logo-dark.svg"
+    alt = "Uisge Beatha logo"
+
+  # And you can even create generic menu
+  
+    [[menu.main]]
+        name = "About"
+        url = "/about/about"
+        weight = 30
+
+   # [[menu.main]]
+   #    name = "Categories"
+   #    url = "/categories/"
+   #    weight = 40
+
+    [[menu.main]]
+        name       = "Whisky News"
+        url        = "/post"
+        weight = 10
+    
+    [[menu.main]]
+        name       = "Bottles"
+        url        = "/bottle"
+        weight = 60
+
+
+    #[[menu.main]]
+    #        name = "dropdown"
+    #        url = "#"
+    #        weight = 50
+    #        identifier = "dropdown"
+
+#[[menu.main]]
+#    name = "Itemone"
+#    url = "/one/"
+#    weight = 51
+#    parent = "dropdown"
+
+#[[menu.main]]
+#    name = "Itemtwo"
+#    url = "/two/"
+#    weight = 52
+#    parent = "dropdown"

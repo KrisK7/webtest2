@@ -1,0 +1,57 @@
+{{ define "body" }}
+    <body class="home-page {{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <main class="home-main">
+        <div class="home-container">
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="home-portrait circle" alt="{{ .Site.Params.Portrait.Alt }}" />
+            {{ end }}
+
+            <h1 class="home-title">{{ .Site.Title }}</h1>
+
+            {{ partial "subtitle.html" . }}
+
+            {{- with .Site.Params.social }}
+                <div class="home-social">
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+
+            <!-- Latest Posts Section -->
+            <section class="home-posts">
+                <h2 class="home-posts-title">Latest Posts</h2>
+                <div class="posts-list">
+                    {{ $posts := where .Site.RegularPages "Type" "in" (slice "post" "blog") }}
+                    {{ $posts = where $posts "Params.draft" "!=" true }}
+                    {{ range first 5 $posts.ByDate.Reverse }}
+                    <article class="post-card">
+                        <h3 class="post-title">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </h3>
+                        <div class="post-meta">
+                            <time datetime="{{ .Date.Format "2006-01-02" }}">
+                                {{ .Date.Format "January 2, 2006" }}
+                            </time>
+                            {{ if .Params.categories }}
+                            <span class="post-categories">
+                                in {{ range .Params.categories }}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+                            </span>
+                            {{ end }}
+                        </div>
+                        <div class="post-summary">
+                            <p>{{ .Summary }}</p>
+                            {{ if .Truncated }}
+                            <a href="{{ .RelPermalink }}" class="read-more">Read more</a>
+                            {{ end }}
+                        </div>
+                    </article>
+                    {{ else }}
+                    <p class="no-posts">No posts yet. Check back soon!</p>
+                    {{ end }}
+                </div>
+            </section>
+        </div>
+    </main>
+{{ end }}

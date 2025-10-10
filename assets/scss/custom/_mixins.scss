@@ -1,0 +1,28 @@
+// Semantic color mixins for common use cases
+@mixin background-primary {
+  @include theme-colors(background-color, $light-background, $dark-background);
+}
+
+@mixin background-secondary {
+  @include theme-colors(background-color, $light-background-secondary, $dark-background-secondary);
+}
+
+@mixin background-header {
+  @include theme-colors(background-color, $light-background-header, $dark-background-header);
+}
+
+@mixin color-primary {
+  @include theme-colors(color, $light-color, $dark-color);
+}
+
+@mixin color-secondary {
+  @include theme-colors(color, $light-color-secondary, $dark-color-secondary);
+}
+
+@mixin color-variant {
+  @include theme-colors(color, $light-color-variant, $dark-color-variant);
+}
+
+@mixin border-color {
+  @include theme-colors(border-color, $light-border-color, $dark-border-color);
+}

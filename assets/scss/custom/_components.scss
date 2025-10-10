@@ -1,0 +1,524 @@
+// Styles for dropdown navigation
+
+.menu__item--has-children {
+    position: relative;
+
+    // Show the dropdown on hover and focus
+    &:hover > .submenu,
+    &:focus-within > .submenu {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+}
+
+// Style for the dropdown menu itself
+.submenu {
+    // Hide by default
+    display: block; // Change to 'block' for smoother transitions
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+
+    // Positioning
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+
+    // Appearance
+    background-color: var(--background); // Use a CSS variable if your theme does
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    min-width: 150px;
+    padding: 0.5rem 0;
+    margin: 0;
+    list-style: none;
+
+    // Style for individual items inside the dropdown
+    li {
+        margin: 0;
+    }
+
+    a {
+        display: block;
+        padding: 0.5rem 1rem;
+        color: var(--text-color); // Use theme variables
+        text-decoration: none;
+
+        &:hover {
+            background-color: var(--background-alt); // A slightly different background
+        }
+    }
+}
+// Portfolio grid layout
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: $grid-gap;
+    margin: $grid-gap 0;
+}
+
+.project-card {
+    background: $project-card-bg;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: $project-shadow;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+    }
+}
+
+.tech-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.tech-tag {
+    background: lighten($primary-color, 10%);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+// ===== THEME MIXINS =====
+// Define all mixins at the top of the same file
+
+@mixin theme-colors($property, $light-value, $dark-value) {
+  #{$property}: $light-value;
+
+  @media (prefers-color-scheme: dark) {
+    #{$property}: $dark-value;
+  }
+
+  @media (prefers-color-scheme: light) {
+    #{$property}: $light-value;
+  }
+
+  [data-theme=dark] & {
+    #{$property}: $dark-value;
+  }
+
+  [data-theme=light] & {
+    #{$property}: $light-value;
+  }
+}
+
+// Semantic color mixins
+@mixin background-primary {
+  @include theme-colors(background-color, $light-background, $dark-background);
+}
+
+@mixin background-secondary {
+  @include theme-colors(background-color, $light-background-secondary, $dark-background-secondary);
+}
+
+@mixin color-primary {
+  @include theme-colors(color, $light-color, $dark-color);
+}
+
+@mixin color-secondary {
+  @include theme-colors(color, $light-color-secondary, $dark-color-secondary);
+}
+
+@mixin border-color {
+  @include theme-colors(border-color, $light-border-color, $dark-border-color);
+}
+
+// ===== COMPONENT STYLES =====
+// Now use the mixins in your components
+
+.home-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+  
+  @include background-primary;
+  @include color-primary;
+}
+
+.home-container {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  
+  @media (min-width: 768px) {
+    max-width: 900px;
+    padding: 0 2rem;
+  }
+}
+
+.home-portrait {
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin: 0 auto 2rem;
+  border: 3px solid;
+  @include border-color;
+}
+
+.home-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  @include color-primary;
+  
+  @media (min-width: 768px) {
+    font-size: 3rem;
+  }
+}
+
+.home-social {
+  margin: 2rem 0 3rem;
+}
+
+.home-posts {
+  margin-top: 4rem;
+  padding-top: 3rem;
+  border-top: 1px solid;
+  @include border-color;
+  text-align: left;
+}
+
+.home-posts-title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  @include color-primary;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post-card {
+  @include background-secondary;
+  border: 1px solid;
+  @include border-color;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  @include color-primary;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.post-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.3rem;
+  
+  a {
+    @include color-primary;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  @include color-secondary;
+  margin-bottom: 1rem;
+}
+
+.post-summary {
+  @include color-primary;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.read-more {
+  @include color-primary;
+  text-decoration: none;
+  font-weight: 500;
+  opacity: 0.8;
+  
+  &:hover {
+    text-decoration: underline;
+    opacity: 1;
+  }
+}
+
+.no-posts {
+  text-align: center;
+  @include color-secondary;
+  font-style: italic;
+  padding: 2rem;
+}
+
+// ===== DEV REFERENCE STYLES =====
+.dev-reference {
+  @include background-primary;
+  @include color-primary;
+  padding: 2rem 0;
+  min-height: 100vh;
+}
+
+.dev-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid;
+  @include border-color;
+}
+
+.dev-section {
+  margin-bottom: 4rem;
+  
+  h2 {
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid;
+    @include border-color;
+  }
+}
+
+// Color Grid
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.color-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid;
+  @include border-color;
+  border-radius: 8px;
+  @include background-secondary;
+}
+
+.color-swatch {
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  flex-shrink: 0;
+  border: 1px solid #ccc;
+  
+  // Color swatch styles
+  &.light-bg { background-color: $light-background; border-color: $light-border-color; }
+  &.light-bg-secondary { background-color: $light-background-secondary; }
+  &.light-color { background-color: $light-color; color: $light-background; }
+  &.light-color-secondary { background-color: $light-color-secondary; color: $light-background; }
+  &.light-border { background-color: $light-border-color; }
+  
+  &.dark-bg { background-color: $dark-background; color: $dark-color; }
+  &.dark-bg-secondary { background-color: $dark-background-secondary; color: $dark-color; }
+  &.dark-color { background-color: $dark-color; color: $dark-background; }
+  &.dark-border { background-color: $dark-border-color; color: $dark-color; }
+}
+
+.color-info {
+  strong {
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+  
+  code {
+    font-size: 0.8rem;
+    @include background-primary;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-family: 'Monaco', 'Consolas', monospace;
+  }
+  
+  small {
+    display: block;
+    margin-top: 0.25rem;
+    @include color-secondary;
+    font-size: 0.8rem;
+  }
+}
+
+// Typography Showcase
+.typography-showcase {
+  .type-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid;
+    @include border-color;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+  
+  .body-text, .secondary-text {
+    margin-bottom: 0.5rem;
+  }
+  
+  .secondary-text {
+    font-size: 0.9rem;
+    @include color-secondary;
+  }
+}
+
+// Component Showcase
+.component-group {
+  margin-bottom: 3rem;
+  
+  h3 {
+    margin-bottom: 1.5rem;
+    @include color-secondary;
+    font-size: 1.3rem;
+  }
+}
+
+.button-showcase {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  
+  .read-more {
+    @include color-primary;
+    text-decoration: none;
+    font-weight: 500;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+  .btn-primary, .btn-secondary {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: inherit;
+    font-size: 0.9rem;
+  }
+  
+  .btn-primary {
+    @include background-primary;
+    @include color-primary;
+    border: 1px solid;
+    @include border-color;
+    
+    &:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  .btn-secondary {
+    @include background-secondary;
+    @include color-primary;
+    
+    &:hover {
+      transform: translateY(-1px);
+    }
+  }
+}
+
+.homepage-showcase {
+  text-align: center;
+  padding: 2rem;
+  border: 1px solid;
+  @include border-color;
+  border-radius: 8px;
+  @include background-secondary;
+  
+  .home-portrait {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 1rem auto;
+    border: 3px solid;
+    @include border-color;
+    @include background-primary;
+  }
+  
+  .home-title {
+    margin: 1rem 0;
+  }
+  
+  .social-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    
+    a {
+      @include color-secondary;
+      text-decoration: none;
+      
+      &:hover {
+        @include color-primary;
+      }
+    }
+  }
+}
+
+.code-reference {
+  ul {
+    margin-left: 0;
+    list-style: none;
+    
+    li {
+      margin-bottom: 0.5rem;
+      padding: 0.5rem;
+      @include background-secondary;
+      border-radius: 4px;
+      
+      code {
+        @include background-primary;
+        padding: 0.2rem 0.4rem;
+        border-radius: 3px;
+        font-family: 'Monaco', 'Consolas', monospace;
+        font-size: 0.85rem;
+      }
+    }
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 684px) {
+  .color-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .button-showcase {
+    flex-direction: column;
+    align-items: stretch;
+    
+    a, button {
+      text-align: center;
+    }
+  }
+  
+  .color-item {
+    flex-direction: column;
+    text-align: center;
+  }
+}

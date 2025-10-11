@@ -1,4 +1,4 @@
-baseurl              = "krisk7.github.io"
+baseurl              = "https://krisk7.github.io/"
 title                = "Whisky Price comparison | Get the cheapest prices here | Uisge Beatha"
 languageCode         = "en-gb"
 theme                = "hello-friend-ng"

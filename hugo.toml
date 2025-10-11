@@ -4,6 +4,7 @@ languageCode         = "en-gb"
 theme                = "hello-friend-ng"
 pagination.paperSize = 10
 enableRobotsTXT = true
+summaryLength = 20
 
 [params]
   dateform        = "Jan 2, 2006"

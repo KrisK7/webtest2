@@ -30,7 +30,7 @@ title: Continuous Still Vs. Pot Still
 url: /continuous-still-vs-pot-still/
 
 ---
-The difference of flavour between Malt and Blend whiskies can _largely_ be traced to three factors, the grain used, the way it's distilled, and the way the alcohol is matured. While the influence of the later is cited as high as 70% (by the Scottish Whisky Association) or around 50% by US Bourbon makers the type of still used has historically, and every distillery places emphasis on the quality of its grain the type of still has arguably changed the global face of whisky more than either. Ironic for a country associated with malt whisky production it was among other political considerations, the early adoption of the continuous still over the pot still, which put Scotch to the forefront of whisky making at the expense of Ireland.
+The difference of flavour between Malt and Blend whiskies can _largely_ be traced to three factors, the grain used, the way it's distilled, and the way the alcohol is matured. While the influence of the later is cited as high as 70% <!--more--> (by the Scottish Whisky Association) or around 50% by US Bourbon makers the type of still used has historically, and every distillery places emphasis on the quality of its grain the type of still has arguably changed the global face of whisky more than either. Ironic for a country associated with malt whisky production it was among other political considerations, the early adoption of the continuous still over the pot still, which put Scotch to the forefront of whisky making at the expense of Ireland.
 
 ## Distillation
 

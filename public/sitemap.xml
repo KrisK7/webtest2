@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/bottle/new-bottle/</loc>
+    <loc>http://localhost:1313/bottle/new-bottle/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dev-reference/</loc>
+    <loc>http://localhost:1313/dev-reference/</loc>
   </url><url>
-    <loc>//localhost:1313/bottle/</loc>
+    <loc>http://localhost:1313/bottle/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/bottle/empty/</loc>
+    <loc>http://localhost:1313/bottle/empty/</loc>
     <lastmod>2025-09-24T11:45:23+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2025-09-22T20:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-09-22T20:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-16T11:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-09-16T11:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/what-is-the-angels-share/</loc>
+    <loc>http://localhost:1313/what-is-the-angels-share/</loc>
     <lastmod>2025-09-16T11:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/whisky-news/</loc>
+    <loc>http://localhost:1313/categories/whisky-news/</loc>
     <lastmod>2025-09-16T11:35:10+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/distilling-myth-canadian-whisky/</loc>
+    <loc>http://localhost:1313/distilling-myth-canadian-whisky/</loc>
     <lastmod>2016-09-26T12:47:49+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/continuous-still-vs-pot-still/</loc>
+    <loc>http://localhost:1313/continuous-still-vs-pot-still/</loc>
     <lastmod>2015-03-06T21:25:43+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/annandale-distillery-first-cask/</loc>
+    <loc>http://localhost:1313/annandale-distillery-first-cask/</loc>
     <lastmod>2015-02-24T19:58:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/barley-james-hutton-institute/</loc>
+    <loc>http://localhost:1313/post/barley-james-hutton-institute/</loc>
     <lastmod>2015-02-20T08:40:08+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -7,6 +7,7 @@ description: "There's a lot going on in the world of whisky, from bio-fuel to im
 image: "/images/barley-james-hutton-institute.jpg"
 draft: false
 summary: "This is custom summary"
+robots: "index, follow, max-snippet:-1, max-image-preview:large"
 ---
 
 Following on from the publishing of a high resolution draft of the barley genome in the journal Nature the James Hutton Institute is hoping to establish a £23m international centre for the study of barley, with the hopes of creating hardier, more resistant strains for use the production of biofuel, beer and of course whisky. Barley is already the second most important crop in UK agriculture, grown across almost 50% of Scotland's arable land and underpinning the Scotch whisky industry [£5 billion](http://uiscebeatha.co.uk/scotch-whisky-industry-turmoil/) per year contribution to the UK economy, so this development is likely to receive considerable support.

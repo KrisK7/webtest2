@@ -2,3 +2,16 @@
 {{ $scssOptions := dict "targetPath" "css/custom.css" "outputStyle" "compressed" }}
 {{ $scssMain := resources.Get "scss/main.scss" | css.Sass $scssOptions | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $scssMain.RelPermalink }}" integrity="{{ $scssMain.Data.Integrity }}" crossorigin="anonymous">
+
+<!-- Override theme's bad robots tag with proper one -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+
+<!-- If you want to fix social images too -->
+{{ if .Params.image }}
+<meta property="og:image" content="{{ .Params.image | absURL }}">
+<meta name="twitter:image" content="{{ .Params.image | absURL }}">
+{{ else }}
+<!-- Fallback to a default social image -->
+<meta property="og:image" content="{{ "images/default-social.jpg" | absURL }}">
+<meta name="twitter:image" content="{{ "images/default-social.jpg" | absURL }}">
+{{ end }}

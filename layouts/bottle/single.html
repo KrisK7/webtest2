@@ -1,30 +1,26 @@
 {{ define "main" }}
-<article class="project">
-    <header class="project-header">
+<article class="bottle">
+    <header class="bottle-header">
         <h1>{{ .Title }}</h1>
-        <p class="project-meta">
-            {{ with .Params.client }}<strong>Client:</strong> {{ . }}{{ end }}
-            {{ with .Params.project_url }}<br><strong>Live Site:</strong> <a href="{{ . }}">{{ . }}</a>{{ end }}
-            {{ with .Params.github_url }}<br><strong>GitHub:</strong> <a href="{{ . }}">View Code</a>{{ end }}
-        </p>
+        <div> <p> <strong> {{ .Params.rank }} </strong> out of <strong>5</strong></p> </div>       
     </header>
 
     {{ with .Params.featured_image }}
-    <div class="project-image">
+    <div class="bottle-image">
         <img src="{{ . | relURL }}" alt="{{ $.Title }}">
     </div>
     {{ end }}
 
-    <div class="project-content">
-        {{ .Content }}
+    <div class="bottle-content">
+        {{ .Description }}
     </div>
 
-    {{ with .Params.technologies }}
+    {{ with .Params.bottletags }}
     <div class="project-technologies">
-        <h3>Technologies Used</h3>
-        <div class="tech-tags">
+        <h3>Tags:</h3>
+        <div class="bottle-tags">
             {{ range . }}
-            <span class="tech-tag">{{ . }}</span>
+            <span class="bottle-tag">{{ . }}</span>
             {{ end }}
         </div>
     </div>

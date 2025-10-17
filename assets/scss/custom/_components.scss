@@ -54,42 +54,7 @@
         }
     }
 }
-// Portfolio grid layout
-.projects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: $grid-gap;
-    margin: $grid-gap 0;
-}
 
-.project-card {
-    background: $project-card-bg;
-    border-radius: 8px;
-    padding: 1.5rem;
-    box-shadow: $project-shadow;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-
-    &:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
-    }
-}
-
-.tech-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1rem 0;
-}
-
-.tech-tag {
-    background: lighten($primary-color, 10%);
-    color: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 500;
-}
 
 // ===== THEME MIXINS =====
 // Define all mixins at the top of the same file
@@ -264,6 +229,56 @@
   @include color-secondary;
   font-style: italic;
   padding: 2rem;
+}
+
+// Bottle grid layout
+.bottle-list {
+  max-width: 1100px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  }
+  @media (min-width: 768px) {
+    max-width: 900px;
+    padding: 0 2rem;
+  }
+
+
+.bottle-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: $grid-gap;
+    margin: $grid-gap 0;
+}
+
+.bottle-card {
+    @include background-secondary;
+    @include border-color;    
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: $bottle-shadow;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+    }
+}
+
+.bottle-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.bottle-tag {
+    background: lighten($primary-color, 10%);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
 }
 
 // ===== DEV REFERENCE STYLES =====

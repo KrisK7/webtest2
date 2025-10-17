@@ -1,20 +1,22 @@
 {{ define "main" }}
-<div class="portfolio-list">
+<div class="bottle-list">
     <h1>{{ .Title }}</h1>
-    <div class="projects-grid">
+    <div class="bottle-grid">
         {{ range .Pages }}
-        <article class="project-card">
+        <article class="bottle-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ with .Params.featured_image }}
-            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            <img class="corner" src="{{ . | relURL }}" alt="{{ $.Title }}">
             {{ end }}
+            <div> <p> <strong> {{ .Params.rank }} </strong> out of <strong>5</strong></p> </div>
+            <p> reviws </p>            
             <p>{{ .Description }}</p>
-            <div class="technologies">
-                {{ range .Params.technologies }}
-                <span class="tech-tag">{{ . }}</span>
+            <div class="bottlenologies">
+                {{ range .Params.bottletags }}
+                <span class="bottle-tag">{{ . }}</span>
                 {{ end }}
             </div>
-            <a href="{{ .RelPermalink }}" class="btn">View Project</a>
+            <a href="{{ .RelPermalink }}" class="btn">View Bottle</a>
         </article>
         {{ end }}
     </div>

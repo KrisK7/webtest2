@@ -1,22 +1,11 @@
 ---
-_edit_last: "1"
-_reading: field_551bb417da09e
-_references: field_551bb328da09c
-_yoast_wpseo_primary_category: ""
-author: user256
-categories:
-  - whisky-news
-date: "2016-09-26T12:47:49+00:00"
-draft: "false"
-guid: http://uiscebeatha.co.uk/?p=782
-parent_post_id: null
-post_id: "782"
-rank_math_primary_category: ""
-rank_math_robots:
-  - index
-reading: ""
-references: References & Reading
 title: Distilling The myth of Canadian Whisky
+date: 2016-09-26T12:47:49+00:00
+author: user256
+categories: ["whisky-news"]
+description: "Canadian whisky"
+image: "/images/distilling-myth-canadian-whisky.jpg"
+draft: true
 url: /distilling-myth-canadian-whisky/
 
 ---

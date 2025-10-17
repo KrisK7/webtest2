@@ -1,32 +1,11 @@
 ---
-_edit_last: "1"
-_oembed_3fff60dd2ffa4ba40050ef4034427642: '{{unknown}}'
-_oembed_460f0519443f1bf52a1aa665709f663b: '{{unknown}}'
-_oembed_42848639ddc62a634bd125bd73272e7f: '{{unknown}}'
-_reading: field_551bb417da09e
-_references: field_551bb328da09c
-_thumbnail_id: "263"
-_yoast_wpseo_content_score: "30"
-_yoast_wpseo_metadesc: The still used to make whisky has a huge impact on the end product and has profoundly changed the global whisky stage, learn more with Uisce Beatha
-_yoast_wpseo_primary_category: ""
-_yoast_wpseo_title: Continuous or Coffey Still Vs Pot Still | Whisky | Uisce Beatha
-author: user256
-categories:
-  - whisky-news
-date: "2015-03-06T21:25:43+00:00"
-guid: http://uiscebeatha.co.uk/?p=210
-parent_post_id: null
-post_id: "210"
-rank_math_analytic_object_id: "4322"
-rank_math_description: The still used to make whisky has a huge impact on the end product and has profoundly changed the global whisky stage, learn more with Uisce Beatha
-rank_math_internal_links_processed: "1"
-rank_math_primary_category: ""
-rank_math_robots:
-  - index
-rank_math_title: Continuous or Coffey Still Vs Pot Still | Whisky | Uisce Beatha
-reading: ""
-references: References & Reading
 title: Continuous Still Vs. Pot Still
+date: 2015-03-06T21:25:43+00:00
+author: user256
+categories: ["whisky-news"]
+description: "The still used to make whisky has a huge impact on the end product and has profoundly changed the global whisky stage, learn more with Uisce Beatha"
+image: "/images/continuous-still-vs-pot-still.jpg"
+draft: false
 url: /continuous-still-vs-pot-still/
 
 ---

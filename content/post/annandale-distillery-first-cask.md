@@ -1,22 +1,11 @@
 ---
-_edit_last: "1"
-_thumbnail_id: "131"
-_yoast_wpseo_metadesc: Annandale distillery which re-opened in 2007 has become the first Scotch to put its first cask up for sale, for £1 million! Learn more with Uisce Beatha
-_yoast_wpseo_title: Annandale Whisky Distillery | Uisce Beatha
-author: user256
-categories:
-  - whisky-news
-date: "2015-02-24T19:58:03+00:00"
-guid: http://uiscebeatha.co.uk/?p=130
-parent_post_id: null
-post_id: "130"
-rank_math_analytic_object_id: "4328"
-rank_math_description: Annandale distillery which re-opened in 2007 has become the first Scotch to put its first cask up for sale, for £1 million! Learn more with Uisce Beatha
-rank_math_internal_links_processed: "1"
-rank_math_robots:
-  - index
-rank_math_title: Annandale Whisky Distillery | Uisce Beatha
 title: The £1 million Rose of Annandale
+date: 2015-02-24T19:58:03+00:00
+author: user256
+categories: ["whisky-news"]
+description: "Annandale distillery which re-opened in 2007 has become the first Scotch to put its first cask up for sale, for £1 million! Learn more with Uisce Beatha"
+image: "/images/the-£1-million-rose-of-annandale.jpg"
+draft: false
 url: /annandale-distillery-first-cask/
 
 ---

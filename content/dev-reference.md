@@ -14,7 +14,7 @@ This living style guide documents all design tokens, components, and patterns us
 
 ### Primary Colors
 - **Light Background**: `#fff` - Main content background
-- **Light Secondary**: `#eaeaea` - Cards, sidebars, secondary elements  
+- **Light Secondary**: `#eaeaea` - Cards, sidebars, secondary elements
 - **Dark Background**: `#232425` - Dark theme main background
 - **Dark Secondary**: `#3b3d42` - Dark theme secondary elements
 

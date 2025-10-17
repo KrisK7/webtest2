@@ -11,7 +11,7 @@ summaryLength = 20
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  homeSubtitle = "Whisky Price comparison"
+  homeSubtitle = "Uisge Beatha helps you to find the best offers and prices quickly and easily. Why search 10 whisky sites when you only need 1."
   disableReadOtherPosts = false
   enableSharingButtons = true
   enableGlobalLanguageMenu = false
@@ -20,6 +20,12 @@ summaryLength = 20
   keywords = "homepage, blog"
   images = [""]
   defaultFeaturedImage = "/images/default-social.jpg"
+  
+  #footer
+[params.footer]
+  copyright = true
+  trademark = "Uisge Beatha 2025" 
+  bottomText = ["Build with Hugo", "Theme: Hello Friend NG", "<a href='/sitemap/'>Sitemap</a>"]
 
 [taxonomies]
     category = 'categories'

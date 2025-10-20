@@ -20,7 +20,7 @@
             <h3>Tags:</h3>
             <div class="bottle-tags">
                 {{ range . }}
-                <span class="bottle-tag">{{ . }}</span>
+                <span class="bottle-tag"><a href="{{ "bottletags/" | absLangURL }}{{ . | urlize }}/">{{.}}</a></span>
                 {{ end }}
             </div>
         </div>

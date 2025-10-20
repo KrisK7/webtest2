@@ -6,7 +6,7 @@ type: "bottle"
 
 description: "Glengoyne 21 Year Old Sherry Cask is a 21 year old single malt whisky from the Glengoyne whisky distillery (located in the Highland region). Rated an average of 4.6 out of 5 by 137 reviewers and available from Amazon for only £125.0, falling slightly short of liquid gold but this in a solid everyday single malt whisky."
 
-bottletags: ["Best peated whiskies for under £50", Best peated whiskies for under £75", Best Single Malt Whiskies For Under £50", Best Single Malt Whiskies for under £75", Peated whiskies", Single Malt Whiskies", Speyside Whiskies", Spirit Caramel (E150A)", Whiskies containing Spirit Caramel (E150A)", Whiskies of Scotland",]
+bottletags: ["21 Year Old Whiskies","Best peated whiskies for under £75","Best sherried whiskies for under £75","Best Single Malt Whiskies for under £75","Highland Whiskies","Peated whiskies","Sherried whiskies","Single Malt Whiskies","Spirit Caramel (E150A)","Whiskies containing Spirit Caramel (E150A)","Whiskies of Scotland"]
 
 featured_image: "https://uisgebeatha.co.uk/wp-content/uploads/2020/03/glengoyne-21-year-old-whisky.jpg"
 

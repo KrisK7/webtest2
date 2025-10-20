@@ -1,0 +1,94 @@
+{{ define "main" }}
+<div class="taxonomy-page producttag-page">
+    <header class="taxonomy-header">
+        <h1 class="taxonomy-title">Tag: {{ .Title }}</h1>
+        <p class="product-count">{{ len .Pages }} product{{ if ne (len .Pages) 1 }}s{{ end }} found</p>
+    </header>
+
+    <div class="products-grid">
+        {{ range .Pages }}
+        <article class="product-card">
+            <!-- Featured Image -->
+            {{ if .Params.featured_image }}
+            <div class="product-image">
+                <a href="{{ .Permalink }}">
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy" />
+                </a>
+            </div>
+            {{ else }}
+            <div class="product-image placeholder">
+                <a href="{{ .Permalink }}">
+                    <div class="image-placeholder">📷</div>
+                </a>
+            </div>
+            {{ end }}
+
+            <!-- Status Badge -->
+            {{ if .Params.status }}
+            <div class="product-badge product-badge-{{ .Params.status | urlize }}">
+                {{ .Params.status }}
+            </div>
+            {{ end }}
+            
+            <!-- Product Info -->
+            <div class="product-info">
+                <h2 class="product-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+
+                <!-- Price -->
+                {{ if .Params.price }}
+                <div class="product-price">
+                    {{ if .Params.price_original }}
+                    <span class="price-original">{{ .Params.price_original }}</span>
+                    {{ end }}
+                    <span class="price-current">{{ .Params.price }}</span>
+                </div>
+                {{ end }}
+
+                <!-- Summary -->
+                <div class="product-summary">
+                    {{ .Summary }}
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="product-actions">
+                    {{ if .Params.product_url }}
+                    <a href="{{ .Params.product_url }}" class="btn btn-primary" target="_blank" rel="noopener">
+                        Buy Now
+                    </a>
+                    {{ else }}
+                    <a href="{{ .Permalink }}" class="btn btn-primary">
+                        View Details
+                    </a>
+                    {{ end }}
+                    <a href="{{ .Permalink }}" class="btn btn-secondary">
+                        Read More
+                    </a>
+                </div>
+
+                <!-- Tags -->
+                {{ with .Params.bottletags }}
+                <div class="product-tags">
+                    {{ range . }}
+                    <a href="{{ "/bottletags/" | relLangURL }}{{ . | urlize }}" class="product-tag">
+                        {{ . }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+
+                <!-- Metadata -->
+                <div class="product-meta">
+                    {{ if .Date }}
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">
+                        {{ .Date.Format "Jan 2, 2006" }}
+                    </time>
+                    {{ end }}
+                </div>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

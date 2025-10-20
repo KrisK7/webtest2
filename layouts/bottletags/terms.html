@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="taxonomy-page producttags-page">
+    <header class="taxonomy-header">
+        <h1 class="taxonomy-title">Product Tags</h1>
+        <p class="taxonomy-description">Browse products by tags</p>
+    </header>
+
+    <div class="tags-container">
+        <div class="tags-grid">
+            {{ range .Data.Terms.Alphabetical }}
+            <a href="{{ .Page.Permalink }}" class="tag-card">
+                <span class="tag-icon">🏷️</span>
+                <span class="tag-name">{{ .Page.Title }}</span>
+                <span class="tag-count">({{ .Count }})</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

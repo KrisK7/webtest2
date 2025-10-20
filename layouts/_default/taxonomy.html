@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-</head>
-<body>
-    <h1>Posts in "{{ .Title }}"</h1>
+{{ define "main" }}
+<div class="taxonomy-container">
+    <header class="taxonomy-header">
+        <h1>Tags</h1>
+        <p>Browse posts by tags</p>
+    </header>
+
+<h1>Posts in "{{ .Title }}"</h1>
     <ul>
         {{ range .Pages }}
         <li>
@@ -13,5 +14,4 @@
         </li>
         {{ end }}
     </ul>
-</body>
-</html>
+{{ end }}

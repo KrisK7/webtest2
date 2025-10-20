@@ -265,6 +265,22 @@
     }
 }
 
+.bottle-content {
+  text-align: left;
+}
+
+.bottle-image {
+    height: auto;
+    max-width: 100%;
+}
+
+.bottle-page {
+  max-width: 800px;
+  width: 100%;
+  text-align: left;
+  margin: 0 auto;
+}
+
 .bottle-tags {
     display: flex;
     flex-wrap: wrap;

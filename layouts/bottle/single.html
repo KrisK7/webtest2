@@ -4,26 +4,27 @@
         <h1>{{ .Title }}</h1>
         <div> <p> <strong> {{ .Params.rank }} </strong> out of <strong>5</strong></p> </div>       
     </header>
-
-    {{ with .Params.featured_image }}
-    <div class="bottle-image">
+    <div class=bottle-page>
+        {{ with .Params.featured_image }}
+        <div class="bottle-image">
         <img src="{{ . | relURL }}" alt="{{ $.Title }}">
-    </div>
-    {{ end }}
-
-    <div class="bottle-content">
-        {{ .Description }}
-    </div>
-
-    {{ with .Params.bottletags }}
-    <div class="project-technologies">
-        <h3>Tags:</h3>
-        <div class="bottle-tags">
-            {{ range . }}
-            <span class="bottle-tag">{{ . }}</span>
-            {{ end }}
         </div>
+        {{ end }}
+
+        <div class="bottle-content">
+        {{ .Content }}
+        </div>
+
+        {{ with .Params.bottletags }}
+        <div>
+            <h3>Tags:</h3>
+            <div class="bottle-tags">
+                {{ range . }}
+                <span class="bottle-tag">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
     </div>
-    {{ end }}
 </article>
 {{ end }}

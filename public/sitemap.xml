@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/ardbeg-uigeadail/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cardhu-gold-reserve-cask-selection/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/glengoyne-21-year-old-sherry-cask/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dev-reference/</loc>
@@ -37,11 +43,23 @@
     <loc>http://localhost:1313/continuous-still-vs-pot-still/</loc>
     <lastmod>2015-03-06T21:25:43+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/glenmorangie-unseen/</loc>
+    <lastmod>2015-02-28T10:49:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/new-zealand-25-year-old-1988-liquid-gold/</loc>
+    <lastmod>2015-02-25T08:44:24+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/annandale-distillery-first-cask/</loc>
     <lastmod>2015-02-24T19:58:03+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hankey-bannister-webiste/</loc>
+    <lastmod>2015-02-23T23:29:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/barley-james-hutton-institute/</loc>
     <lastmod>2015-02-20T08:40:08+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/glenlivet-12-discontinued/</loc>
+    <lastmod>2015-02-08T23:22:25+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>

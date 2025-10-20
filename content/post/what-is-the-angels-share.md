@@ -4,11 +4,13 @@ date: 2025-09-16T11:35:10+01:00
 author: user256
 categories: ["whisky-news"]
 description: "Not just a film by Ken Loach the Angels Share also refers to the alcohol lost while the whisky is maturing, Learn more about the Angels share"
-image: "/images/what-is-the-angels-share.jpg"
+image: "https://uisgebeatha.co.uk/wp-content/uploads/2019/08/the-angels-share.jpg"
 draft: false
 url: /what-is-the-angels-share/
 
 ---
+![What Is The Angels Share? 1](https://uisgebeatha.co.uk/wp-content/uploads/2019/08/the-angels-share.jpg)
+
 The Angels Share is alcohol lost due to evaporation during the maturation of whisky. The exact amount lost to evaporation varies based on the properties of the wood, the skill of the cooper, the humidity of the region and how regularly the casks are turned. The term is also the name of a Scottish comedy drama directed by Ken Loach centered around a fictional cask of Islay’s Malt Mill.
 
 ## Why Does Whisky Evaporate

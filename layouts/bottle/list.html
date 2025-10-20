@@ -9,14 +9,14 @@
             <img class="corner" src="{{ . | relURL }}" alt="{{ $.Title }}">
             {{ end }}
             <div> <p> <strong> {{ .Params.rank }} </strong> out of <strong>5</strong></p> </div>
-            <p> reviws </p>            
+            <strong>reviews {{ .Params.reviews }} </strong>
+            <p>our best price</p>
+            <strong>{{ .Params.price }}</strong>            
             <p>{{ .Description }}</p>
-            <div class="bottlenologies">
-                {{ range .Params.bottletags }}
-                <span class="bottle-tag">{{ . }}</span>
-                {{ end }}
-            </div>
-            <a href="{{ .RelPermalink }}" class="btn">View Bottle</a>
+            <div class="button-showcase">
+                <a href="{{ .RelPermalink }}" class="btn-primary">Buy now</a>
+                <a href="{{ .RelPermalink }}" class="btn-secondary">View Bottle</a>
+            </div>        
         </article>
         {{ end }}
     </div>

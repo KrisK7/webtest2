@@ -17,7 +17,7 @@ summaryLength = 20
   enableGlobalLanguageMenu = false
   # Metadata mostly used in document's head
   description = "Whisky Price comparison | Get the cheapest prices here | Uisge Beatha"
-  keywords = "homepage, blog"
+  #keywords = "homepage, blog"
   images = [""]
   defaultFeaturedImage = "/images/default-social.jpg"
   

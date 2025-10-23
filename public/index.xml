@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design System Reference</title>
+      <title>Design System</title>
       <link>http://localhost:1313/dev-reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/dev-reference/</guid>
-      <description>&lt;h1 id=&#34;design-system&#34;&gt;Design System&lt;/h1&gt;&#xA;&lt;p&gt;This living style guide documents all design tokens, components, and patterns used across the website. All components automatically adapt to light and dark themes.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;design-system&#34;&gt;Design System&lt;/h1&gt;&#xA;&lt;p&gt;[//] menu: &amp;ldquo;main&amp;rdquo; [//]&#xA;This living style guide documents all design tokens, components, and patterns used across the website. All components automatically adapt to light and dark themes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ardbeg Uigeadail</title>
@@ -28,7 +28,7 @@
       <link>http://localhost:1313/cardhu-gold-reserve-cask-selection/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cardhu-gold-reserve-cask-selection/</guid>
-      <description>&lt;p&gt;Cardhu Gold Reserve Cask Selection is a single malt whisky from the Cardhu whisky distillery (located in the Speyside region). Rated an average of 4.7 out of 5 by 282 reviewers and available from Amazon for only £34.95, falling slightly short of liquid gold but this in a solid everyday single malt whisky.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cardhu Gold Reserve Cask Selection is a single malt whisky&lt;/p&gt;</description>
     </item>
     <item>
       <title>Glengoyne 21 Year Old Sherry Cask</title>
@@ -52,6 +52,706 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://uisgebeatha.co.uk/wp-content/uploads/2019/08/the-angels-share.jpg&#34; alt=&#34;What Is The Angels Share? 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Angels Share is alcohol lost due to evaporation during the maturation of whisky. The exact amount lost to evaporation varies based on the properties of the wood, the skill of the cooper, the humidity of the region and how regularly the casks are turned. The term is also the name of a Scottish comedy drama directed by Ken Loach centered around a fictional cask of Islay’s Malt Mill.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Amrut Peated Cask Strength Indian</title>
+      <link>http://localhost:1313/amrut-peated-cask-strength-indian/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:57 +0000</pubDate>
+      <guid>http://localhost:1313/amrut-peated-cask-strength-indian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laphroaig 27 Year Old /2017</title>
+      <link>http://localhost:1313/laphroaig-27-year-old-2017/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:57 +0000</pubDate>
+      <guid>http://localhost:1313/laphroaig-27-year-old-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dalwhinnie 2002 Distillers Edition /2017</title>
+      <link>http://localhost:1313/dalwhinnie-2002-distillers-edition-2017/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:55 +0000</pubDate>
+      <guid>http://localhost:1313/dalwhinnie-2002-distillers-edition-2017/</guid>
+      <description>&lt;p&gt;Spicy, peaty malt and sherry sweetness with a dry Abgang.Die Distillers Edition Dalwhinnie is a special bottling of Scottish distillery. The malt distillery Dalwhinnie is the highest elevation in Scotland and is located in the Central Highlands. The batch is abgefülllt once a year, individually numbered and individually marked. The Dalwhinnie Distillers Edition undergoes a second maturation phase in Oloroso oak barrels. It smells of grapes and has been carefully chosen to complement the characteristic, peat, peat and heather honey notes of Dalwhinnie. It is characterized by a strong vinous sweet, spicy complexity and a very dry, oak accented finish. Region: Highland Color: succinic nose: Fresh Sherry complements the malzigeren, honey-like sounds of Dalwhinnie. Peaty and surprising, but still pagan emphasized. Spicy but vinous body also: Mild to moderate palate: Spicy tingling, followed by the impressive building a very clear and well-structured malts. After a quick burst of sweetness a rich appeal of grapes departure comes: Much, much oak. Very, very dry with dominant vanilla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Famous Grouse 1.5l Blended Whisky</title>
+      <link>http://localhost:1313/famous-grouse-1-5l-blended-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:55 +0000</pubDate>
+      <guid>http://localhost:1313/famous-grouse-1-5l-blended-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Littlemill 27 Year Old 1991 - Single Cask (Master of Malt)</title>
+      <link>http://localhost:1313/littlemill-27-year-old-1991-single-cask-master-of-malt/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:53 +0000</pubDate>
+      <guid>http://localhost:1313/littlemill-27-year-old-1991-single-cask-master-of-malt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Old Pulteney 1974 26 Year Old</title>
+      <link>http://localhost:1313/old-pulteney-1974-26-year-old/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:53 +0000</pubDate>
+      <guid>http://localhost:1313/old-pulteney-1974-26-year-old/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penderyn Independence</title>
+      <link>http://localhost:1313/penderyn-independence/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:51 +0000</pubDate>
+      <guid>http://localhost:1313/penderyn-independence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Springbank 1991 26 Year Old Berry Bros. &amp;amp; Rudd</title>
+      <link>http://localhost:1313/springbank-1991-26-year-old-berry-bros-rudd/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:51 +0000</pubDate>
+      <guid>http://localhost:1313/springbank-1991-26-year-old-berry-bros-rudd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Highland Park 1977 21 Year Old Bicentenary Island Whisky</title>
+      <link>http://localhost:1313/highland-park-1977-21-year-old-bicentenary-island-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:50 +0000</pubDate>
+      <guid>http://localhost:1313/highland-park-1977-21-year-old-bicentenary-island-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tormore 21 Year Old 1995 (cask 20100) (Rest &amp;amp; Be Thankful)</title>
+      <link>http://localhost:1313/tormore-21-year-old-1995-cask-20100-rest-be-thankful/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:50 +0000</pubDate>
+      <guid>http://localhost:1313/tormore-21-year-old-1995-cask-20100-rest-be-thankful/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Girvan 25 Year Old Valinch &amp;amp; Mallet Single Grain Scotch Whisky</title>
+      <link>http://localhost:1313/girvan-25-year-old-valinch-mallet-single-grain-scotch-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:49 +0000</pubDate>
+      <guid>http://localhost:1313/girvan-25-year-old-valinch-mallet-single-grain-scotch-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santis Malt Edition Sigel</title>
+      <link>http://localhost:1313/santis-malt-edition-sigel/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:49 +0000</pubDate>
+      <guid>http://localhost:1313/santis-malt-edition-sigel/</guid>
+      <description>&lt;p&gt;Säntis Malt Swiss Highlander Edition Sigel Appenzeller Single Malt Whisky&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hinch 10 Year Old Sherry Cask Finished Irish Whiskey</title>
+      <link>http://localhost:1313/hinch-10-year-old-sherry-cask-finished-irish-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:47 +0000</pubDate>
+      <guid>http://localhost:1313/hinch-10-year-old-sherry-cask-finished-irish-whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talisker 10 Year Old</title>
+      <link>http://localhost:1313/talisker-10-year-old/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:47 +0000</pubDate>
+      <guid>http://localhost:1313/talisker-10-year-old/</guid>
+      <description>&lt;p&gt;The Talisker 10 Years is strong in flavor, peppery and marked by maritime flavors. The Talisker 10 Years is delivered in a gift box! The Talisker 10 comes from the single distillery of the Isle of Skye. The whiskeys of the distillery are among the most popular spirits in the world. To date, one of the pfeffrigsten Single Malts is baked in the world in the distillery. Smoky, malty-sweet, with very strong pepper. For several years It has been a fixed feature of the Classic Malts Selection. This has made it even more popular, despite or because of the very strong flavors. At least once you should have the Talisker 10 Years tried. Talisker 10 Years is a 10 year old Scottish single malt Scotch whiskey. It is produced by the Talisker Distillery, the only distillery on the Isle of Skye in Scotland. The Talisker 10 Years tastes sweet dried fruit, but also has a smoky and peppery note. Especially in the finish It is very strong, here are the peppery comes into its own. Its aroma is also characterized by strong peat smoke, which is in contrast to the fruity sweetness and so shapes the unique taste of Talisker whiskey, making it thus one of the most powerful in taste malts, which are currently producing. Clearly visible is the Talisker 10 Years on his golden brown, rich color.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inchmoan 1992 25 Year Old</title>
+      <link>http://localhost:1313/inchmoan-1992-25-year-old/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:46 +0000</pubDate>
+      <guid>http://localhost:1313/inchmoan-1992-25-year-old/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port Ellen 1979 23 Year Old Sherry Cask /Wilson &amp;amp; Morgan</title>
+      <link>http://localhost:1313/port-ellen-1979-23-year-old-sherry-cask-wilson-morgan/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:46 +0000</pubDate>
+      <guid>http://localhost:1313/port-ellen-1979-23-year-old-sherry-cask-wilson-morgan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bowmore Classic Collection (3 x 200ml)</title>
+      <link>http://localhost:1313/bowmore-classic-collection-3-x-200ml/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:44 +0000</pubDate>
+      <guid>http://localhost:1313/bowmore-classic-collection-3-x-200ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenlivet 1967 33 Year Old Cellar Collection</title>
+      <link>http://localhost:1313/glenlivet-1967-33-year-old-cellar-collection/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:44 +0000</pubDate>
+      <guid>http://localhost:1313/glenlivet-1967-33-year-old-cellar-collection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic Malts Strong Collection 3x20cl</title>
+      <link>http://localhost:1313/classic-malts-strong-collection-3x20cl/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:43 +0000</pubDate>
+      <guid>http://localhost:1313/classic-malts-strong-collection-3x20cl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenkinchie 2005 Distillers Edition</title>
+      <link>http://localhost:1313/glenkinchie-2005-distillers-edition/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:43 +0000</pubDate>
+      <guid>http://localhost:1313/glenkinchie-2005-distillers-edition/</guid>
+      <description>&lt;p&gt;An impressive malt whiskey; fascinating and pleasant temperature whiskey distillery Glenkinchie is often referred to as &amp;ldquo;The Edinburgh Malt&amp;rdquo; because the distillery is located in the immediate vicinity of the city. a batch of Distillers Edition is brought out once a year, the individually numbered, and each bottle is identified. The limited edition of this single malt Scotch whiskey undergoes the second meiotic phase Amontillado wooden barrel. It was selected because of its nutty flavor to round out the sweet and dry character of the Glenkinchie elegant and deepen. On the palate, firm, dry and very malty with a spicy, eichenholzbetontem finish. Region: LowlandsFarbe: Auburn nose: Forsch, sharp and brittle, and exceptionally complex; amazing balance between sweet and dry. Firmer, drier notes of soft vanilla to fresh grapes. Sweeter, nussigere tones come from the malted barley and the barrel wood. Body: Solid, mild to moderate palate: dry, after previous Cookie sweetness. Great malt character contrasts with the fruity-ness of the grape Finish: Very long, dry, oak emphasized. Very little peppery notes add spice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Auchentoshan 21 Year Old</title>
+      <link>http://localhost:1313/auchentoshan-21-year-old/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:42 +0000</pubDate>
+      <guid>http://localhost:1313/auchentoshan-21-year-old/</guid>
+      <description>&lt;p&gt;The Auchentoshan 21 Years is a complex, yet mild Scotch whisky. Its fresh, floral fragrance leaves you wanting more, and in the taste of the Auchentoshan delivers what it promises. The Auchentoshan 21 Years is of course three times distilled, and was over 20 years aged in American bourbon barrels and Spanish sherry casks. The long storage time in different barrels have made a kompklexen yet mild Auchentoshan arise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pike Creek 21 Year Old Speyside Cask Ltd Release Canadian Whisky</title>
+      <link>http://localhost:1313/pike-creek-21-year-old-speyside-cask-ltd-release-canadian-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:42 +0000</pubDate>
+      <guid>http://localhost:1313/pike-creek-21-year-old-speyside-cask-ltd-release-canadian-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1770 Whisky - 2019 Release</title>
+      <link>http://localhost:1313/1770-whisky-2019-release/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:40 +0000</pubDate>
+      <guid>http://localhost:1313/1770-whisky-2019-release/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bowmore Vault Edition First Release Atlantic Sea Salt</title>
+      <link>http://localhost:1313/bowmore-vault-edition-first-release-atlantic-sea-salt/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:40 +0000</pubDate>
+      <guid>http://localhost:1313/bowmore-vault-edition-first-release-atlantic-sea-salt/</guid>
+      <description>&lt;p&gt;With the Bowmore Vault Edition No. 1 Scottish distillery launches a series of four single malt whiskey. With each edition of the four-part series Bowmore deals with one of the typical flavor of Bowmore whiskey. These four basic flavors is part sea salt, smoke, fruit and sweetness. With the first edition Vault Edition 1, Bowmore dedicated the aroma sea salt, so it is a very maritimier single malt in the results, highlighting the origin of the island of Islay unmistakable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glencadam 12 Year Old /1980s</title>
+      <link>http://localhost:1313/glencadam-12-year-old-1980s/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:39 +0000</pubDate>
+      <guid>http://localhost:1313/glencadam-12-year-old-1980s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenmorangie Allta Private Edition No.10</title>
+      <link>http://localhost:1313/glenmorangie-allta-private-edition-no-10/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:39 +0000</pubDate>
+      <guid>http://localhost:1313/glenmorangie-allta-private-edition-no-10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cragganmore 1968 11 Year Old Connoisseurs Choice</title>
+      <link>http://localhost:1313/cragganmore-1968-11-year-old-connoisseurs-choice/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:37 +0000</pubDate>
+      <guid>http://localhost:1313/cragganmore-1968-11-year-old-connoisseurs-choice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towiemore - Archivist&amp;#039;s Selection (The Lost Distillery Company) Blended Malt Whisky</title>
+      <link>http://localhost:1313/towiemore-archivists-selection-the-lost-distillery-company-blended-malt-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:37 +0000</pubDate>
+      <guid>http://localhost:1313/towiemore-archivists-selection-the-lost-distillery-company-blended-malt-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coleburn 1972 Rare Old Gordon &amp;amp; MacPhail</title>
+      <link>http://localhost:1313/coleburn-1972-rare-old-gordon-macphail/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/coleburn-1972-rare-old-gordon-macphail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomatin 18 Year Old Oloroso Sherry Finish</title>
+      <link>http://localhost:1313/tomatin-18-year-old-oloroso-sherry-finish/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tomatin-18-year-old-oloroso-sherry-finish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Karuizawa 1999 &amp;amp; 2000 LMDW Cellar Book Japanese</title>
+      <link>http://localhost:1313/karuizawa-1999-2000-lmdw-cellar-book-japanese/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:30 +0000</pubDate>
+      <guid>http://localhost:1313/karuizawa-1999-2000-lmdw-cellar-book-japanese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Woodford Reserve Masters No.10 White Corn</title>
+      <link>http://localhost:1313/woodford-reserve-masters-no-10-white-corn/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:30 +0000</pubDate>
+      <guid>http://localhost:1313/woodford-reserve-masters-no-10-white-corn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jack Daniels Master Distiller No 5 Tennessee Whiskey</title>
+      <link>http://localhost:1313/jack-daniels-master-distiller-no-5-tennessee-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:28 +0000</pubDate>
+      <guid>http://localhost:1313/jack-daniels-master-distiller-no-5-tennessee-whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strathmill 10 Year Old 2008 - James Eadie</title>
+      <link>http://localhost:1313/strathmill-10-year-old-2008-james-eadie/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:28 +0000</pubDate>
+      <guid>http://localhost:1313/strathmill-10-year-old-2008-james-eadie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benrinnes 1991 26 Year Old Single Malts of Scotland</title>
+      <link>http://localhost:1313/benrinnes-1991-26-year-old-single-malts-of-scotland/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:26 +0000</pubDate>
+      <guid>http://localhost:1313/benrinnes-1991-26-year-old-single-malts-of-scotland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macallan 10 Year Old 100 Proof /1990s</title>
+      <link>http://localhost:1313/macallan-10-year-old-100-proof-1990s/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:26 +0000</pubDate>
+      <guid>http://localhost:1313/macallan-10-year-old-100-proof-1990s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glen Grant 50 Year Old Gordon &amp;amp; MacPhail</title>
+      <link>http://localhost:1313/glen-grant-50-year-old-gordon-macphail/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:25 +0000</pubDate>
+      <guid>http://localhost:1313/glen-grant-50-year-old-gordon-macphail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oban 21 Year Old (Special Release 2018)</title>
+      <link>http://localhost:1313/oban-21-year-old-special-release-2018/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:25 +0000</pubDate>
+      <guid>http://localhost:1313/oban-21-year-old-special-release-2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenmorangie 10 Year Old 100 Proof</title>
+      <link>http://localhost:1313/glenmorangie-10-year-old-100-proof/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:23 +0000</pubDate>
+      <guid>http://localhost:1313/glenmorangie-10-year-old-100-proof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Highland Park 12 Year Old 2 Glass Pack Island Whisky</title>
+      <link>http://localhost:1313/highland-park-12-year-old-2-glass-pack-island-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:23 +0000</pubDate>
+      <guid>http://localhost:1313/highland-park-12-year-old-2-glass-pack-island-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cu Bocan Creation 2 Shochu &amp;amp; Virgin Oak Cask</title>
+      <link>http://localhost:1313/cu-bocan-creation-2-shochu-virgin-oak-cask/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:10 +0000</pubDate>
+      <guid>http://localhost:1313/cu-bocan-creation-2-shochu-virgin-oak-cask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mortlach 1999 19 Year Old Connoisseurs Choice</title>
+      <link>http://localhost:1313/mortlach-1999-19-year-old-connoisseurs-choice/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:10 +0000</pubDate>
+      <guid>http://localhost:1313/mortlach-1999-19-year-old-connoisseurs-choice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glentauchers 1996 22 Year Old /Jack Wiebers Old Train Line</title>
+      <link>http://localhost:1313/glentauchers-1996-22-year-old-jack-wiebers-old-train-line/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:08 +0000</pubDate>
+      <guid>http://localhost:1313/glentauchers-1996-22-year-old-jack-wiebers-old-train-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grant&amp;#039;s Family Reserve Magnum</title>
+      <link>http://localhost:1313/grants-family-reserve-magnum/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:08 +0000</pubDate>
+      <guid>http://localhost:1313/grants-family-reserve-magnum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenlivet 1974 /2008 Gordon &amp;amp; MacPhail</title>
+      <link>http://localhost:1313/glenlivet-1974-2008-gordon-macphail/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:07 +0000</pubDate>
+      <guid>http://localhost:1313/glenlivet-1974-2008-gordon-macphail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SPEY Tenne Cask Strength - Batch 2</title>
+      <link>http://localhost:1313/spey-tenne-cask-strength-batch-2/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:07 +0000</pubDate>
+      <guid>http://localhost:1313/spey-tenne-cask-strength-batch-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aultmore 6 Year Old 2011 (cask 12072) - Provenance (Douglas Laing)</title>
+      <link>http://localhost:1313/aultmore-6-year-old-2011-cask-12072-provenance-douglas-laing/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:05 +0000</pubDate>
+      <guid>http://localhost:1313/aultmore-6-year-old-2011-cask-12072-provenance-douglas-laing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenugie 1976 25 Year Old Signatory</title>
+      <link>http://localhost:1313/glenugie-1976-25-year-old-signatory/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:05 +0000</pubDate>
+      <guid>http://localhost:1313/glenugie-1976-25-year-old-signatory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bower Hill Barrel Reserve Bourbon Kentucky Straight Bourbon Whiskey</title>
+      <link>http://localhost:1313/bower-hill-barrel-reserve-bourbon-kentucky-straight-bourbon-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:04 +0000</pubDate>
+      <guid>http://localhost:1313/bower-hill-barrel-reserve-bourbon-kentucky-straight-bourbon-whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nomad Outland Whisky Blended Whisky</title>
+      <link>http://localhost:1313/nomad-outland-whisky-blended-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:04 +0000</pubDate>
+      <guid>http://localhost:1313/nomad-outland-whisky-blended-whisky/</guid>
+      <description>&lt;p&gt;The Nomad blended Scotch whiskey with P.X. Finish is a whiskey of the company Gonzalez, which has its headquarters in Jerez de la Frontera, so in Spain. Whiskey, like so many of his high-quality colleagues in Schottland.Der blended Scotch whiskey is matured in sherry casks, where it probably has its bright, shiny amber color was produced. A blend whiskey is called a mixture or blend, combines different whiskeys which in itself. To connect the whiskey taste each other, the final product is aged again in barrels. Thus, the harmonious flavor can spread and completely develop the character. A very good wine that&amp;rsquo;s too bad for mixed drinks actually.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glenugie 1977 26 Year Old Murray McDavid</title>
+      <link>http://localhost:1313/glenugie-1977-26-year-old-murray-mcdavid/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:02 +0000</pubDate>
+      <guid>http://localhost:1313/glenugie-1977-26-year-old-murray-mcdavid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kavalan Solist Vinho Barrique #092A (2012) Taiwanese Whisky</title>
+      <link>http://localhost:1313/kavalan-solist-vinho-barrique-092a-2012-taiwanese-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:02 +0000</pubDate>
+      <guid>http://localhost:1313/kavalan-solist-vinho-barrique-092a-2012-taiwanese-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glen Grant 1962 /2006 Gordon &amp;amp; MacPhail</title>
+      <link>http://localhost:1313/glen-grant-1962-2006-gordon-macphail/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:00 +0000</pubDate>
+      <guid>http://localhost:1313/glen-grant-1962-2006-gordon-macphail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redbreast 12 Year Old Cask Strength Batch B1-18</title>
+      <link>http://localhost:1313/redbreast-12-year-old-cask-strength-batch-b1-18/</link>
+      <pubDate>Thu, 12 Mar 2020 11:02:00 +0000</pubDate>
+      <guid>http://localhost:1313/redbreast-12-year-old-cask-strength-batch-b1-18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenglassaugh Port Wood Finish</title>
+      <link>http://localhost:1313/glenglassaugh-port-wood-finish/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:59 +0000</pubDate>
+      <guid>http://localhost:1313/glenglassaugh-port-wood-finish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jim Beam Devil&amp;#039;s Cut Bourbon Kentucky Straight Bourbon Whiskey</title>
+      <link>http://localhost:1313/jim-beam-devils-cut-bourbon-kentucky-straight-bourbon-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:59 +0000</pubDate>
+      <guid>http://localhost:1313/jim-beam-devils-cut-bourbon-kentucky-straight-bourbon-whiskey/</guid>
+      <description>&lt;p&gt;The counterpart to the &amp;ldquo;Angel&amp;rsquo;s Share&amp;rdquo; (the liquid that &amp;ldquo;evaporated&amp;rdquo; during the Whiskey storage in the drums) is the &amp;ldquo;Devil&amp;rsquo;s Cut&amp;rdquo; (the amount of whiskey, which remains in the timber after the whiskey maturation and emptying of the flamed oak barrels). Thanks to a patented method, which can extract &amp;ldquo;Devil&amp;rsquo;s Cut&amp;rdquo; from the barrels and combine with a minimum of six-year-old Jim Beam. The result is an intense, strong Bourbon, which provides an incomparable taste experience, the Jim Beam Devil&amp;rsquo;s Cut. Jim Beam Bourbon is the best selling brand in the world - Its origins date back to the 18th century, when the German-born MÃ¼ller Jakob Bohm came with his copper pot stills of Virginia westward to Bourbon Country (Kentucky). It is said to have 1,795 sold his first barrel of whiskey in cash and eventually moved his distillery to Washington County. Jim (James Beauregard) Beam was Jacob Boehm&amp;rsquo;s great-grandson. It joined the family business at the age of 16 years. The Jim Beam Devils Cut whiskey is produced in Clermont, in the US state of Kentucky. The well-known distillery has been producing since 1795. whiskey. The Jim Beam Devils Cut is a new creation. When storing two &amp;rsquo;&amp;rsquo; Outtakes &amp;lsquo;distinguish&amp;rsquo;. The &amp;rsquo;&amp;rsquo; angel&amp;rsquo;s cut &amp;rsquo;&amp;rsquo; is the portion that evaporates during maturation by the barrel pores, the &amp;rsquo;&amp;rsquo; devil&amp;rsquo;s cut &amp;rsquo;&amp;rsquo; is the residue that remains after emptying of the barrels. This relatively small amount, the &amp;rsquo;&amp;rsquo; Devil&amp;rsquo;s share &amp;lsquo;&amp;rsquo;, is married with six year old Jim Beam whiskey and produces a particularly rich, intense whiskey with an equally strong coloration. The bouquet is smoky oak flavors and delicate vanilla unfold. On the palate, the new creation convinces with an intense vanilla and cinnamon note, wood and caramel. The finish is long and intense. It should definitely be eaten alone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reference Series II Blended Malt Whisky</title>
+      <link>http://localhost:1313/reference-series-ii-blended-malt-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:57 +0000</pubDate>
+      <guid>http://localhost:1313/reference-series-ii-blended-malt-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Glenrothes 1976 (cask 2677) (bottled 2015)</title>
+      <link>http://localhost:1313/the-glenrothes-1976-cask-2677-bottled-2015/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:57 +0000</pubDate>
+      <guid>http://localhost:1313/the-glenrothes-1976-cask-2677-bottled-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruichladdich Black Art 6.1 1990 26 Year Old</title>
+      <link>http://localhost:1313/bruichladdich-black-art-6-1-1990-26-year-old/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:56 +0000</pubDate>
+      <guid>http://localhost:1313/bruichladdich-black-art-6-1-1990-26-year-old/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glen Grant 15 Year Old Batch Strength</title>
+      <link>http://localhost:1313/glen-grant-15-year-old-batch-strength/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:56 +0000</pubDate>
+      <guid>http://localhost:1313/glen-grant-15-year-old-batch-strength/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auchentoshan Virgin Oak Batch Two</title>
+      <link>http://localhost:1313/auchentoshan-virgin-oak-batch-two/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:54 +0000</pubDate>
+      <guid>http://localhost:1313/auchentoshan-virgin-oak-batch-two/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jack&amp;#039;s Pirate 17 Year Old Das Gestohlene Schiff XIII Island Whisky</title>
+      <link>http://localhost:1313/jacks-pirate-17-year-old-das-gestohlene-schiff-xiii-island-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:54 +0000</pubDate>
+      <guid>http://localhost:1313/jacks-pirate-17-year-old-das-gestohlene-schiff-xiii-island-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hamiltons Lowland Single Grain Whisky</title>
+      <link>http://localhost:1313/hamiltons-lowland-single-grain-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:53 +0000</pubDate>
+      <guid>http://localhost:1313/hamiltons-lowland-single-grain-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roughstock Montana Pure Malt Whiskey</title>
+      <link>http://localhost:1313/roughstock-montana-pure-malt-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:53 +0000</pubDate>
+      <guid>http://localhost:1313/roughstock-montana-pure-malt-whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benriach 21 Year Old Tawny Port Finish</title>
+      <link>http://localhost:1313/benriach-21-year-old-tawny-port-finish/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:51 +0000</pubDate>
+      <guid>http://localhost:1313/benriach-21-year-old-tawny-port-finish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lagavulin 16 Year Old 70cl</title>
+      <link>http://localhost:1313/lagavulin-16-year-old-70cl/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:51 +0000</pubDate>
+      <guid>http://localhost:1313/lagavulin-16-year-old-70cl/</guid>
+      <description>&lt;p&gt;The Lagavulin 16 Years is the best-selling member of the Classic Malts of Scotland. A powerful, smoky and complex Islay Malt. A true classic! The distillery Lagavulin on Islay is renowned for its peaty whiskeys. It is located in close proximity to the distilleries of Ardbeg and Laphroaig. This also applies to the Lagavulin 16 Years. Although the finish and sherry casks (Sherry Cask) were used remains that there are strong, smoky. Beginners should not start with this whiskey. The Lagavulin 16 Years is a whiskey for connoisseurs and lovers of Islay whiskeys. The Lavagulin 16 Years Old Islay Malt is said to have an absolutely unmistakable and strong character. It has an unrivaled composition of earth, sea, peat and smoke. When speaking of the spiciest Islay Malt, as connoisseurs know that here the Lavagulin 16 Years Old is meant. Especially popular is the 43% vol. alcoholic Lavagulin due to its deep taste and its noble drought. The 16-year-old whiskey is the most popular and best selling Classic Malt series. The flavor notes of Lavagulin 16 Years Old Islay Malt consist of fruity cherry, delicate vanilla and other various spices. More information about the product.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starward Two-Fold Double Grain Blended Australian Whisky</title>
+      <link>http://localhost:1313/starward-two-fold-double-grain-blended-australian-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:49 +0000</pubDate>
+      <guid>http://localhost:1313/starward-two-fold-double-grain-blended-australian-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tullamore Dew Blended Irish Whiskey</title>
+      <link>http://localhost:1313/tullamore-dew-blended-irish-whiskey/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:49 +0000</pubDate>
+      <guid>http://localhost:1313/tullamore-dew-blended-irish-whiskey/</guid>
+      <description>&lt;p&gt;The Tullamore Dew from the south of Ireland is a rich blend whose fine smoky taste of honey gives it an unforgettable aromatic expression. It can be compared to another Irish whiskey barely. Golden yellow barley and clear spring water form the basis of Tullamore Dew. The distillery Tullamore, which is now owned by Allied Domecq, was founded in 1829 in the county Offlay and later taken over by Daniel E. Williams, who helped the contemporary blend to its name. The The Tullamore Dew is an established Irish whiskey. It was first produced in 1829, founded by Michael Molloy Tullamore distillery in the same place Irish Tullamore in County Offaly. The suffix Dew goes back to Daniel Edmond Williams, the 1887 was chief executive of the distillery of the year and his initials D.E.W. anhängte the name of the whiskey. Today Tullamore Dew is part of the Scottish company William Grant &amp;amp; Sons and is produced in Midleton. The Tullamore Dew is a blended whiskey, which is a compilation of different single whiskeys. It tastes mild compared to other whiskeys and has not too strong and dominant flavors. It has, in comparison to most whiskeys, no smoky flavor, which makes it taste more pleasant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Big Peat Islay Blended Malt</title>
+      <link>http://localhost:1313/big-peat-islay-blended-malt/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:47 +0000</pubDate>
+      <guid>http://localhost:1313/big-peat-islay-blended-malt/</guid>
+      <description>&lt;p&gt;The Big Peat convinces with its strong smoky and phenolic character that will convince especially lovers of Islay whiskeys. According to the manufacturer of the Big Peat should represent the ultimate taste of Islay. A Hidden Malt, which reflects the taste of Islay - the Big Peat. known in normal filling, but now available in a miniature, it is referred to by experts as the ultimate Islay whiskey. Five distilleries are in the process involved in creating this unique blend. Four of them deliver their varieties Port Ellen, Ardbeg, Bowmore and coal Ila. The fifth part in the processing and fills from. The result is a joint project of the islanders, which now is very popular among friends of the original and peaty whiskeys. Both smell and taste live mainly of smoke and peat, but replaced by a discreet sweetness. In addition, the connoisseurs will recognize the aroma of beach and tar, smoke and peat. The finish of the taste of liquorice and fire support the main flavor. Friends speak of understated nut character, baked almonds and salted cashews to which this whiskey recalls. In addition, a touch of cocoa beans and sandalwood - It is also quite dry. A coveted award was the Big Peat given in 13: It was winner of the title &amp;ldquo;Best Blended Scotch Malt Whiskey&amp;rdquo; at the World Awards. This maybe also contributed to the unusual label, reminiscent of a comic book.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dimple /1970s Plastic Cap</title>
+      <link>http://localhost:1313/dimple-1970s-plastic-cap/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:47 +0000</pubDate>
+      <guid>http://localhost:1313/dimple-1970s-plastic-cap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balvenie The Week of Peat 14 Year Old Stories No.2</title>
+      <link>http://localhost:1313/balvenie-the-week-of-peat-14-year-old-stories-no-2/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:45 +0000</pubDate>
+      <guid>http://localhost:1313/balvenie-the-week-of-peat-14-year-old-stories-no-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tullibardine 11 Year Old (That Boutique-y Whisky Company)</title>
+      <link>http://localhost:1313/tullibardine-11-year-old-that-boutique-y-whisky-company/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:45 +0000</pubDate>
+      <guid>http://localhost:1313/tullibardine-11-year-old-that-boutique-y-whisky-company/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul John 6 Year Old 2009 (cask 534) - Single Cask (Master of Malt)</title>
+      <link>http://localhost:1313/paul-john-6-year-old-2009-cask-534-single-cask-master-of-malt/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:41 +0000</pubDate>
+      <guid>http://localhost:1313/paul-john-6-year-old-2009-cask-534-single-cask-master-of-malt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kornog Roc&amp;#039;h Hir French</title>
+      <link>http://localhost:1313/kornog-roch-hir-french/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:40 +0000</pubDate>
+      <guid>http://localhost:1313/kornog-roch-hir-french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port Dundas 2004 14 Year Old Old Particular Single Whisky</title>
+      <link>http://localhost:1313/port-dundas-2004-14-year-old-old-particular-single-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:39 +0000</pubDate>
+      <guid>http://localhost:1313/port-dundas-2004-14-year-old-old-particular-single-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Tweeddale Grain of Truth Single Grain Scotch Whisky</title>
+      <link>http://localhost:1313/the-tweeddale-grain-of-truth-single-grain-scotch-whisky/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:39 +0000</pubDate>
+      <guid>http://localhost:1313/the-tweeddale-grain-of-truth-single-grain-scotch-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lagavulin 12 Year Old /1980s</title>
+      <link>http://localhost:1313/lagavulin-12-year-old-1980s/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:37 +0000</pubDate>
+      <guid>http://localhost:1313/lagavulin-12-year-old-1980s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smögen 6 Year Old 2011 - 6/6</title>
+      <link>http://localhost:1313/smogen-6-year-old-2011-6-6/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:37 +0000</pubDate>
+      <guid>http://localhost:1313/smogen-6-year-old-2011-6-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bunnahabhain 1997 20 Year Old Acorn</title>
+      <link>http://localhost:1313/bunnahabhain-1997-20-year-old-acorn/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:36 +0000</pubDate>
+      <guid>http://localhost:1313/bunnahabhain-1997-20-year-old-acorn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lochside 1981 29 Year Old Whisky Agency</title>
+      <link>http://localhost:1313/lochside-1981-29-year-old-whisky-agency/</link>
+      <pubDate>Thu, 12 Mar 2020 11:01:36 +0000</pubDate>
+      <guid>http://localhost:1313/lochside-1981-29-year-old-whisky-agency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Woodford Reserve Classic Malt</title>
+      <link>http://localhost:1313/woodford-reserve-classic-malt/</link>
+      <pubDate>Thu, 12 Mar 2020 11:00:04 +0000</pubDate>
+      <guid>http://localhost:1313/woodford-reserve-classic-malt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenfarclas 15 Year Old 70cl</title>
+      <link>http://localhost:1313/glenfarclas-15-year-old-70cl/</link>
+      <pubDate>Fri, 22 Nov 2019 18:03:24 +0000</pubDate>
+      <guid>http://localhost:1313/glenfarclas-15-year-old-70cl/</guid>
+      <description>&lt;p&gt;The Glenfarclas 15 Years is an outstanding Scottish single malt whiskey. It particularly shines through the excellent combination of sherry and barley. 95/100 pts. Jim Murray&amp;rsquo;s Whiskey Bible 2010 Glenfarclas is one of the largest distilleries in Scotland. Robert Hay founded the distillery in 1836 and since 1844 quality whiskeys are produced there. At this point, Hay also received the official license to be allowed to burn whiskeys. 1865, the distillery changed hands and went into the hands of John Grant. To date, it is owned by the Grant family. All whiskey from Glenfarclas mature exclusively been used sherry casks. The Glenfarclas 15 years Speyside Malt Scotch Whiskey had 15 years for his maturation. Thus, this is an excellent whiskey that can go into raptures even connoisseurs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nikka Coffey Grain Whisky Japanese Grain Whisky</title>
+      <link>http://localhost:1313/nikka-coffey-grain-whisky-japanese-grain-whisky/</link>
+      <pubDate>Fri, 22 Nov 2019 17:57:16 +0000</pubDate>
+      <guid>http://localhost:1313/nikka-coffey-grain-whisky-japanese-grain-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenmorangie Quinta Ruban 14 Year Old Port Finish</title>
+      <link>http://localhost:1313/glenmorangie-quinta-ruban-14-year-old-port-finish/</link>
+      <pubDate>Thu, 17 Oct 2019 14:49:45 +0000</pubDate>
+      <guid>http://localhost:1313/glenmorangie-quinta-ruban-14-year-old-port-finish/</guid>
+      <description>&lt;p&gt;The Glenmorangie Quinta Ruban 14 years is produced in the Scottish distillery Glenmorangie, which is renowned for its quality whiskey. Already in the early 18th century whiskey was distilled here. The suffix &amp;rsquo;&amp;rsquo; Quinta &amp;rsquo;&amp;rsquo; refers to the Portuguese wine barrels in which the whiskey matures. The Gaelic word &amp;rsquo;&amp;rsquo; Ruban &amp;rsquo;&amp;rsquo; stands for Rubin and describes the color of Glenmorangie, which is actually ruby ​​red with a brownish tinge. When serving the Glenmorangie exudes a complex aroma that consists of mint, chocolate and tangerines. The taste is initially spicy, then chocolaty-nutty. The whole is pervaded by a subtle hint of mint and lemon. A total refreshing, spicy yet smooth whiskey, which also ensures a long, pleasant finish. It should enjoy pure necessarily alternatively with some ice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yamazakura 963 8 Year Old Japanese Blended Whisky</title>
+      <link>http://localhost:1313/yamazakura-963-8-year-old-japanese-blended-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 14:57:57 +0000</pubDate>
+      <guid>http://localhost:1313/yamazakura-963-8-year-old-japanese-blended-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The English Small Batch Rum Cask Matured Whisky English Whisky</title>
+      <link>http://localhost:1313/the-english-small-batch-rum-cask-matured-whisky-english-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:40:27 +0000</pubDate>
+      <guid>http://localhost:1313/the-english-small-batch-rum-cask-matured-whisky-english-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suntory Yamazaki Distiller&amp;#039;s Reserve Japanese</title>
+      <link>http://localhost:1313/suntory-yamazaki-distillers-reserve-japanese/</link>
+      <pubDate>Mon, 23 Sep 2019 13:40:00 +0000</pubDate>
+      <guid>http://localhost:1313/suntory-yamazaki-distillers-reserve-japanese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suntory Hakushu Distiller&amp;#039;s Reserve Japanese</title>
+      <link>http://localhost:1313/suntory-hakushu-distillers-reserve-japanese/</link>
+      <pubDate>Mon, 23 Sep 2019 13:39:59 +0000</pubDate>
+      <guid>http://localhost:1313/suntory-hakushu-distillers-reserve-japanese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sacred Peated English Whisky English</title>
+      <link>http://localhost:1313/sacred-peated-english-whisky-english/</link>
+      <pubDate>Mon, 23 Sep 2019 13:38:57 +0000</pubDate>
+      <guid>http://localhost:1313/sacred-peated-english-whisky-english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redbreast 12 Year Old Single Pot Still Irish Whiskey 70cl</title>
+      <link>http://localhost:1313/redbreast-12-year-old-single-pot-still-irish-whiskey-70cl/</link>
+      <pubDate>Mon, 23 Sep 2019 13:38:41 +0000</pubDate>
+      <guid>http://localhost:1313/redbreast-12-year-old-single-pot-still-irish-whiskey-70cl/</guid>
+      <description>&lt;p&gt;Among connoisseurs of Redbreast 12 Years among the best what of whiskies to offer Ireland. The phases of maturity in bourbon and Oloroso cask give the Redbreast 12 Years unbeatable and rare taste. 1939 Redbreast is the first time in the trade. it was produced at that time in the Jameson distillery, stored, packaged and sold it the company has Gilbey. After the Jameson distillery was closed, one has the pure pot still delivered only to mid 80s. A few years ago the brand was revived thanks to the IDG and manufactured in New Midleton today. Earlier the Redbreast had an excellent reputation and is considered one of the last Irish whiskey of its kind. The Redbreast 12 Years is a world class pure pot still whiskey. The bottle is also called &amp;ldquo;The Priest Bottle&amp;rdquo; because the Irish pot still to have earlier pampers the palate of priests. The Redbreast is a traditional Irish whiskey, which is produced in the pot still procedure. This means that the distillation is carried out in stills of copper. Because after each operation, the bubbles must be cleaned carefully, the Redbreast is not suitable for mass production. Furthermore, the addition of water is omitted before bottling. The concentration is the same as that in the storage barrels. Of course, the alcohol content of the whiskey is high and only for hard-drinking connoisseurs. The aroma of Redbreast is fruity with hints of malt and sherry. The latter comes from the storage casks. The taste is very diverse, with hints of sherry, spices, vanilla and oak. A total of more powerful and complex taste. The finish also not disappointed: very long lasting, intense with hints of dark berry fruits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nikka From the Barrel Japanese Blended Whisky</title>
+      <link>http://localhost:1313/nikka-from-the-barrel-japanese-blended-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:37:44 +0000</pubDate>
+      <guid>http://localhost:1313/nikka-from-the-barrel-japanese-blended-whisky/</guid>
+      <description>&lt;p&gt;The Nikka Whiskey from the barrels can not be sufficiently recommended. If only his appearance stands out from the other whiskies, so It comes in a distinctive 0.5l square bottle. Mature malt whiskey and grain whiskey are mixed and then re-casked. Nikka from the barrel has at cask strength over an alcohol content of 51.4% vol., And has a distinctive personality, due to its rich flavors and deep flavor. It need not fear comparison with the Scottish blends. From the land of the rising sun a whiskey as one would never expect him to Japan comes. While the UK and especially Scotland regarded as the home of whiskey, here comes from Japan a very good blend of Nikka From The Barrel. It comes from the distillery Nikka; the second largest in Japan. The distillation takes place in Coffrey-Still process and then this whiskey can mature until it is bottled. This time it spends in bourbon casks and barrels of sherry, which gives it a special touch. In 2007 and 2010, the Nikka From The Barrel received high honors in the class &amp;ldquo;Blend Blended Whiskey Japanese&amp;rdquo;, and has been even more popular. This whiskey is considered extremely powerful and already in the glass has a beautiful, slightly reddish brown color. The aroma is supported by fruity and spicy notes, which are complemented with floral nuances. Peat and wood are added and give the drink a classic touch. Also oak and spices you and the sweetness of honey tastes before vanilla is noticeable in the finish and lasts long. On the Rocks or pure, it is a real treat, even if one does not enjoy in Asia but in Europe. More information about the product.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loch Lomond Single Grain Highland Single Grain Scotch Whisky</title>
+      <link>http://localhost:1313/loch-lomond-single-grain-highland-single-grain-scotch-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:36:48 +0000</pubDate>
+      <guid>http://localhost:1313/loch-lomond-single-grain-highland-single-grain-scotch-whisky/</guid>
+      <description>&lt;p&gt;The Loch Lomond Single Grain is a real feature and comes from the distillery Loch Lomond in Alexandria in the Highlands. Unlike a single malt of Loch Lomond Single Grain from malted barley in a Coffey-style complex is distilled. By storage in barrels of American white oak arise aromas of creamy vanilla and fresh fruit. The Loch Lomond Single Graun whiskey bears no indication of age, but surprises with its rich notes of tropical fruit, vanilla and a hint of smoke.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ichiro&amp;#039;s Malt &amp;amp; Grain (46.5%) Japanese Blended Whisky</title>
+      <link>http://localhost:1313/ichiros-malt-grain-46-5-japanese-blended-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/ichiros-malt-grain-46-5-japanese-blended-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ichiro&amp;#039;s Malt Double Distilleries (46.5%) Japanese Blended Malt Whisky</title>
+      <link>http://localhost:1313/ichiros-malt-double-distilleries-46-5-japanese-blended-malt-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/ichiros-malt-double-distilleries-46-5-japanese-blended-malt-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hibiki Harmony Japanese Whisky 70cl Japanese Blended Whisky</title>
+      <link>http://localhost:1313/hibiki-harmony-japanese-whisky-70cl-japanese-blended-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:34:45 +0000</pubDate>
+      <guid>http://localhost:1313/hibiki-harmony-japanese-whisky-70cl-japanese-blended-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cotswolds Single Malt 2014 Odyssey Barley English</title>
+      <link>http://localhost:1313/cotswolds-single-malt-2014-odyssey-barley-english/</link>
+      <pubDate>Mon, 23 Sep 2019 13:31:16 +0000</pubDate>
+      <guid>http://localhost:1313/cotswolds-single-malt-2014-odyssey-barley-english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compass Box The Spice Tree Highland Blended Malt Scotch Whisky</title>
+      <link>http://localhost:1313/compass-box-the-spice-tree-highland-blended-malt-scotch-whisky/</link>
+      <pubDate>Mon, 23 Sep 2019 13:31:13 +0000</pubDate>
+      <guid>http://localhost:1313/compass-box-the-spice-tree-highland-blended-malt-scotch-whisky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Active Scotch Distilleries</title>
+      <link>http://localhost:1313/active-scotch-distilleries/</link>
+      <pubDate>Fri, 09 Aug 2019 13:33:29 +0000</pubDate>
+      <guid>http://localhost:1313/active-scotch-distilleries/</guid>
+      <description>&lt;p&gt;The below list and map represent the most complete list of active Scotch distilleries&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://mapsengine.google.com/map/u/0/embed?mid=zAvDUCuSrQyo.kmnZAVUktmyM&#34; width=&#34;100%&#34; height=&#34;480px&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;Unfortunately standardised data is not available for all distilleries, if you notice anything that&#39;s out of date please comment below or let me know via the &lt;a href=&#34;http://uiscebeatha.co.uk/contact-form/&#34;&gt;contact form&lt;/a&gt;!&#xD;&#xA;&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Active Japanese Distilleries</title>
+      <link>http://localhost:1313/active-japanese-distilleries/</link>
+      <pubDate>Fri, 09 Aug 2019 09:58:36 +0000</pubDate>
+      <guid>http://localhost:1313/active-japanese-distilleries/</guid>
+      <description>&lt;p&gt;The below list and map represent the most complete list of active Japanese distilleries, while a number of other distilleries have historically been active there are only 9 distilleries presently in operation including Suntory&amp;rsquo;s grain distillery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An artificial whisky tongue to rivals the connoisseurs</title>
+      <link>http://localhost:1313/an-artificial-whisky-tongue-to-rivals-the-connoisseurs/</link>
+      <pubDate>Sat, 08 Jul 2017 07:53:01 +0000</pubDate>
+      <guid>http://localhost:1313/an-artificial-whisky-tongue-to-rivals-the-connoisseurs/</guid>
+      <description>&lt;p&gt;Unless the whisky has been adulterated with E150 then the colors found in the glass can be used to identify all sorts of whisky characteristics, such as origin, type and age. Something that, so far at least, only the most accomplished whiskey connoisseurs have been able to do so.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Distilling The myth of Canadian Whisky</title>
       <link>http://localhost:1313/distilling-myth-canadian-whisky/</link>
       <pubDate>Mon, 26 Sep 2016 12:47:49 +0000</pubDate>
@@ -59,11 +759,81 @@
       <description>&lt;p&gt;Canadian whisky sometimes suffers from a whirlwind of contrary media, some going so far as to call it brown vodka, some calling it the best whisky in the world and others highlighting the 9.09% rule.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Glenfiddich&amp;#039;s Gravity Defying Whisky</title>
+      <link>http://localhost:1313/glenfiddichs-gravity-defying-whisky/</link>
+      <pubDate>Wed, 04 Nov 2015 13:54:20 +0000</pubDate>
+      <guid>http://localhost:1313/glenfiddichs-gravity-defying-whisky/</guid>
+      <description>&lt;p&gt;Firstly this has nothing to do with the ISS, which is so far has hosted Ardbeg and now Suntory spirits, you can find out more their respective studies on &lt;a href=&#34;http://uiscebeatha.co.uk/ardbeg-iss-whisky-is-out-of-this-world/&#34;&gt;microgravity maturation here&lt;/a&gt; and &lt;a href=&#34;http://uiscebeatha.co.uk/japanese-whisky-set-for-takeoff/&#34;&gt;microgravity mellowing here&lt;/a&gt;. Instead this is about the new rather fantastic video for the Glenfiddich 21 21 Year Old Gran Reserva which you can see below*.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Are all Whiskies Kosher?</title>
+      <link>http://localhost:1313/are-all-whiskies-kosher/</link>
+      <pubDate>Sat, 24 Oct 2015 12:29:59 +0000</pubDate>
+      <guid>http://localhost:1313/are-all-whiskies-kosher/</guid>
+      <description>&lt;p&gt;Not all &lt;a href=&#34;https://whiskipedia.com/fundamentals/is-whisky-kosher/&#34;&gt;whiskies are considered kosher&lt;/a&gt;. In order for a whisky to be considered kosher, it must be produced and bottled under the supervision of a rabbi in accordance with Jewish dietary laws. This means that the ingredients, production process, and equipment used to make the whisky must all be in compliance with these laws. In addition, the whisky must be free of any non-kosher additives or ingredients. There are many whiskies that are not produced in this way, so not all whiskies are considered kosher.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ardbeg ISS Whisky is Out of this World</title>
+      <link>http://localhost:1313/ardbeg-iss-whisky-is-out-of-this-world/</link>
+      <pubDate>Tue, 08 Sep 2015 12:58:07 +0000</pubDate>
+      <guid>http://localhost:1313/ardbeg-iss-whisky-is-out-of-this-world/</guid>
+      <description>&lt;p&gt;Forgive the title but given that Ardbeg have described the results of their experiment as &amp;ldquo;groundbreaking&amp;rdquo; and paving the way &amp;ldquo;for unprecedented flavour profiles&amp;rdquo; I couldn&amp;rsquo;t resist. For those not in the know Ardbeg beat Suntory in sending a sample of their &lt;a href=&#34;http://uiscebeatha.co.uk/japanese-whisky-set-for-takeoff/&#34;&gt;whisky to the ISS&lt;/a&gt; around 4 years ago, and the long awaited results are in. The study looked at the effects of micro-gravity on terpenes during the maturation process has resulted in &amp;ldquo;major differences&amp;rdquo; between the two samples. &lt;img src=&#34;http://uiscebeatha.co.uk/wp-content/uploads/2015/09/Ardbeg-Space-Sampel-1-1.jpg&#34; alt=&#34;Ardbeg distillery&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Classic Malts of Scotland</title>
+      <link>http://localhost:1313/classic-malts-of-scotland/</link>
+      <pubDate>Sun, 14 Jun 2015 22:48:00 +0000</pubDate>
+      <guid>http://localhost:1313/classic-malts-of-scotland/</guid>
+      <description>&lt;div class=&#34;centre&#34;&gt;&lt;img style=&#34;max-width:100%; height:auto&#34;; src=&#34;http://uiscebeatha.co.uk/wp-content/uploads/2015/06/Classic-Malts.jpg&#34; alt=&#34;Picture of the 6 classic malt whiskies&#34;/&gt;&lt;/div&gt;&#xA;&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;&#xA;The Classic Malts of Scotland collection a selection of 6 malt whiskies launched by United Distillers and Vintners (now part of Diageo) showcases a range of whiskies from the companies distilleries, however these do not adhere to the &lt;a href=&#34;http://uiscebeatha.co.uk/active-scotch-distilleries/&#34;&gt;Scottish whisky regions &lt;/a&gt;as recognised by the SWA (Scottish Whisky Association) which often results in confusion, the malts are&#xA;&lt;table style=&#34;width:100%&#34;; class=&#34;rwd-table&#34;&gt;&#xA;&lt;tbody&gt;&#xA;&lt;tr&gt;&#xA;&lt;th&gt;Whisky&lt;/th&gt;&#xA;&lt;th&gt;Age&lt;/th&gt;&#xA;&lt;th&gt;ABV %&lt;/th&gt;&#xA;&lt;th&gt;Region&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Dalwhinnie&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;15 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;43%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;Highland&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Talisker&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;10 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;45%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;Isle of Skye&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Cragganmore&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;12 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;40%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;Speyside&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Oban&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;14 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;43%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;West Highland&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Lagavulin&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;16 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;43%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;Islay&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td data-th=&#34;Whisky&#34;&gt;Glenkinchie&lt;/td&gt;&#xA;&lt;td data-th=&#34;Age&#34;&gt;12 years&lt;/td&gt;&#xA;&lt;td data-th=&#34;Alc. %&#34;&gt;43%&lt;/td&gt;&#xA;&lt;td data-th=&#34;Region&#34;&gt;Lowland&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2&gt;The Whiskies Regions&lt;/h2&gt;&#xA;Officially the Scottish Whisky Association recognise five distinct whisky producing regions: Speyside, Islay, Campbeltown, the Lowlands and the Highlands (the latter includes islands which are sometimes treated as a sub-region).  Consequently the Isle of Skye and West Highland are not officially recognised regions, and the Classic Malts collection does not include a Campbelltown whisky as the group does not own any of the three currently active distilleries in the region.&#xA;&lt;h3&gt;Dawlwhinnie - Highland Whisky&lt;/h3&gt;&#xA;Dalwhinnie is a light highland whisky clocking in at around £45 and is generally well received having earned 95 points in Jim Murray&#39;s whisky bible and four stars on Master of malts. Although the Classic malts range list Dalwhinnie as a Highland malt it is typically recognised as a Speyside Single Malt&#xA;&lt;h3&gt;Talisker - Isle of Skye Whisky&lt;/h3&gt;&#xA;Talisker 10 is an award winning smoky peated whisky usually available for around £35 in most supermarkets, though recently the No Age Statement Talisker Storm is replacing this as the standard offering. As noted above the Island region is not formally recognised so would typically be classified as a Highland whisky. The Uisce Beatha Talisker review can be &lt;a href=&#34;http://uiscebeatha.co.uk/reviews/talisker-10-year-old/&#34;&gt;found here&lt;/a&gt;.&#xA;&lt;h3&gt;Cragganmore - Speyside Whisky&lt;/h3&gt;&#xA;The Cragganmore 10 is a sweet sherried, herbaceous whisky available from most off-licences for around £35. The distillery is situated in the village of Ballindalloch in Banffshire making this a Speyside whisky.&#xA;&lt;h3&gt;Oban - West Highland Whisky&lt;/h3&gt;&#xA;Oban 14 is a smoky almost medicinal Malt with a distinctive seaside taste, widely available in supermarkets it typically retails for around £45. The Seaside resort town by the distillery actually draws its name from the distillery established in 1974. While the West Highland style is a useful descriptor being somewhere between the dry smoky whisky associated with Islay and the islands sub region and the lighter highland style no official distinction is recognised making this a Highland malt.&#xA;&lt;h3&gt;&lt;span&gt;Lagavulin - Islay Whisky&lt;/span&gt;&lt;/h3&gt;&#xA;&lt;span&gt;Lagavulin&#39;s standard offering is the 16 year old expression, offering a highly peated yet starkly sweet southern Islay flavour. A more common sight in bars than supermarkets the Lagavulin 16 is among the more expensive of the Classic malts range coming in at around £55. Awarded liquid gold status in Jim Murray&#39;s 2014 whisky bible the Lagavulin 16 is a fantastic example of Islay single malt whisky&lt;/span&gt;&#xA;&lt;h3&gt;Glenkinchie - Lowland Whisky&lt;/h3&gt;&#xA;Often called the Edinburgh Malt (being produced some 15 miles outside of the city) Glenkinchie is an incredibly light, sweet and highly accessible whisky coming in at around £35. Although relatively unknown before the creation of the Classic Malts range was launched Glenkinchie has become something of a household name being readily available in a growing number of supermarkets. The classic malt range originally featured the Glenkinchie 10 though this has was replaced by the Glenkinchie 12 in 2007.&#xA;&lt;h2&gt;The Extended Range&lt;/h2&gt;&#xA;In recent years Diagio has expanded the Classic Malts range to include a further 6 expressions; Clynelish 14, Caol Ila 12, Knockando 12, Royal Lochnagar 12, Cardhu 12 and Singleton of Dufftown 12. For the most part however the classic malt range is generally limited to the traditional 6 but that&#39;s no reason not to try them all!</description>
+    </item>
+    <item>
+      <title>A Guide To Gaelic Names For Distilleries</title>
+      <link>http://localhost:1313/a-guide-to-gaelic-names-for-distilleries/</link>
+      <pubDate>Sun, 07 Jun 2015 21:11:20 +0000</pubDate>
+      <guid>http://localhost:1313/a-guide-to-gaelic-names-for-distilleries/</guid>
+      <description>&lt;p&gt;Many of Scotland&amp;rsquo;s distilleries we&amp;rsquo;re built centuries ago hence the variety of traditional names, other more recent established distilleries such as Bruichladdich continue this tradition. Unfortunately while Gaelic is a an incredibly poetic language the most recent census data suggests that only &lt;span&gt;1.1 per cent (or 58,000) of the Scottish population actually speak &lt;/span&gt;Gaelic resulting in a plethora of pronunciations even in Scotland.&#xA;In other countries such as France or America with a high demand for Scotch whisky the names themselves are even less frequently pronounced correctly so here at Uisce Beatha we&amp;rsquo;ve compiled a list of often mispronounced distilleries with their correction pronunciation, the top few are some of the most instantly recognisable but we&amp;rsquo;ve created a pronunciation table for every &lt;a href=&#34;http://uiscebeatha.co.uk/active-scotch-distilleries/&#34;&gt;currently active distillery&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Bill Lumsden Questions &amp;amp; Answers Part 3</title>
+      <link>http://localhost:1313/dr-bill-lumsden-questions-answers-part-3/</link>
+      <pubDate>Mon, 13 Apr 2015 19:11:53 +0000</pubDate>
+      <guid>http://localhost:1313/dr-bill-lumsden-questions-answers-part-3/</guid>
+      <description>&lt;p&gt;&lt;span&gt;This is part three of the Question and Answer session with Dr. Bill Lumsden, you can see the first video in our previous post &lt;/span&gt;&lt;a rel=&#34;prev&#34; href=&#34;http://uiscebeatha.co.uk/glenmorangie-questions-part-1/&#34; title=&#34;Dr Bill Lumsden Questions &amp;amp; Answers&#34;&gt;Questions &amp;amp; Answers part one&lt;/a&gt;]]&amp;gt;&amp;lt;/content:encoded&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;excerpt:encoded&lt;/a&gt;&lt;![CDATA[In the third part Glenmorangie’s five part series of videos Dr Lumsden answers questions posed to the brand across their social media profiles and via email on quality control and consistency. View the full video with transcript]]&gt;&amp;lt;/excerpt:encoded&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_date&lt;/a&gt;&lt;![CDATA[2015-04-13 19:11:53]]&gt;&amp;lt;/wp:post_date&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_date_gmt&lt;/a&gt;&lt;![CDATA[2015-04-13 19:11:53]]&gt;&amp;lt;/wp:post_date_gmt&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:comment_status&lt;/a&gt;&lt;![CDATA[closed]]&gt;&amp;lt;/wp:comment_status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:ping_status&lt;/a&gt;&lt;![CDATA[closed]]&gt;&amp;lt;/wp:ping_status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_name&lt;/a&gt;&lt;![CDATA[dr-bill-lumsden-questions-answers-part-3]]&gt;&amp;lt;/wp:post_name&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:status&lt;/a&gt;&lt;![CDATA[publish]]&gt;&amp;lt;/wp:status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_type&lt;/a&gt;&lt;![CDATA[post]]&gt;&amp;lt;/wp:post_type&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_password&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:post_password&amp;gt;&#xA;&lt;category domain=&#34;category&#34; nicename=&#34;news&#34;&gt;&lt;![CDATA[Whisky News]]&gt;&lt;/category&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_edit_last]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[1]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Questions &amp; Answers Part 3 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_metadesc]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part three of five short interview videos with Dr Bill Lumsden head of distilling and whisky creation at the Glenmorangie whisky company.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[https://www.youtube.com/embed/IsQzwNFB-Uc]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cac44e85]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr. Bill Lumden Whisky Questions &amp; Answers Part 3]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cbc44e86]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[David : Talking it about the whisky that’s good to be released and end of next&#xA;year I think from the Cask Masters series, Question here from I believe Joe from Facebook, what would be the direction of Tata, the final whisky being released&#xA;Dr. Bill : I know absolutely what the whisky is going to be, that was the first stage&#xA;of the process, so Tata which is the name of it is going to be Glenmorangie which has been finished or extra mature in Manzanilla Sherry Cask so what consumers can expect is some of the classic sherry notes you know that the toffee, the brown sugar, the spices, there was a nice cash salty, edge to it. When I taste, I have this image of salty pecan nuts in my head.&#xA;David : Definitely, so those are the things, savory, salted notes as well as the usual Sherry character&#xA;Dr. Bill : It’s going to be quite different from the Lasanta which is a much sweeter&#xA;flavor profile.&#xA;David : Those of you who were at the Whisky Fest San Fran you would have tasted the samples and form your own opinion on them and actually if you’re coming to Whisky New York which at the time of us filming this is happening tonight and tomorrow, and we will also have a little bit of those Whisky samples as well.&#xA;The person here has asked: Can you explain to us how the flavor and quality of Glenmorangie whiskies today differ from the Glenmorangie whiskies from the previous years and has anything in the last few years with our new owners may be affected that?&#xA;Dr. Bill : Okay. The best way that I would answer that is to say that personally I’m never satisfied of what I do and I’m always striving to improve and make things better. And in my opinion, myself and my team have work very hard over the last decade to tweak the quality and the flavor, and I have been drinking Glenmorangie since I was 24. Now it’s quite a few years ago and I believe the quality now is better that it has ever been and in terms of our new ownership, the last several years has been the most exciting of my career and I believe the most exciting in the history of Glenmorangie and LVMH has invested lots of money, they have given me a lot of money to invest, in developing the distilleries, improving them and making even better product. So in my opinion when we relaunched the brand in 2007 as you know David I tweaked the recipe of original. And what I was trying to do was bring it back to the way I remember it, back in the 80s when I first started drinking it and making a little bit more rounded, a little bit sweeter, and now of course it is being reflected with the many, many awards it has won.&#xA;David : Absolutely it is, so many times that you have resources you have at your disposal now, a vastly superior prior to the new ownership.&#xA;Dr. Bill : We just re-equipped our research laboratory, so were looking at things in&#xA;more detail. So for all of our consumers, I can assure you, you know we just let you, your passionate consumers are our sales, so we’re always trying to be on top of quality as much as we can.&#xA;David : That’s a really interesting thing, it’s absolutely true. Myself included, and&#xA;those of that are still work for the company with the whisky side of things are first and foremost passionate whisky drinkers. The last thing that they would ever want to do is to harm the quality of the spirit in any way, shape or form. It’s just not in our DNA&#xA;Dr. Bill : Not at all.&#xA;David : Absolutely. Next question is from Jason from Facebook. Will Glenmorangie ever go back to the older periods of the limited expressions like Margo, Tain l&#39;Hermitage and the original single malt bottle. I’m sure that’s last of the questions.&#xA;Dr. Bill : Great. You know if I can answer the last one first, at the moment we’re happy with the bottle shapes we have. And you know from my prospect is much more of the liquid that’s inside it. The Tain l&#39;Hermitage finish, the Margot wood finish, the Côtes du Rhône finish were all very successful variants and you know I’ve done this so I’m not necessarily trying and going back to do it again but the one thing I really see is that I’ve got 29 different experimental Glenmorangie projects on the go just now, some of them are completely left field and off the wall. A number of them are building on the success of these finishes so there will be more like it.&#xA;David : And I guess seeming part of this, is that we have been continuing to&#xA;release whiskeys of that pedigree and that sort of lineage with things like the Glenmorangie Artein, Sassicaia casks and the Glenmorangie Sonallta using the Pedro Ximénez sherry casks, we are still continuing that.&#xA;Dr. Bill : It’s a technique that we develop with Glenmorangie country, it’s a&#xA;technique that works very well. I’d like to say we are probably the industry experts of doing it. And so we are going to continue to do things like that but there are lots of other interesting things on the go as well.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cc744e87]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[References &amp; Reading]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb328da09c]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb417da09e]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_thumbnail_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[470]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_edit_last]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[1]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Questions &amp; Answers Part 3 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_metadesc]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part three of five short interview videos with Dr Bill Lumsden head of distilling and whisky creation at the Glenmorangie whisky company.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[https://www.youtube.com/embed/IsQzwNFB-Uc]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cac44e85]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr. Bill Lumden Whisky Questions &amp; Answers Part 3]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cbc44e86]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[David : Talking it about the whisky that’s good to be released and end of next&#xA;year I think from the Cask Masters series, Question here from I believe Joe from Facebook, what would be the direction of Tata, the final whisky being released&#xA;Dr. Bill : I know absolutely what the whisky is going to be, that was the first stage&#xA;of the process, so Tata which is the name of it is going to be Glenmorangie which has been finished or extra mature in Manzanilla Sherry Cask so what consumers can expect is some of the classic sherry notes you know that the toffee, the brown sugar, the spices, there was a nice cash salty, edge to it. When I taste, I have this image of salty pecan nuts in my head.&#xA;David : Definitely, so those are the things, savory, salted notes as well as the usual Sherry character&#xA;Dr. Bill : It’s going to be quite different from the Lasanta which is a much sweeter&#xA;flavor profile.&#xA;David : Those of you who were at the Whisky Fest San Fran you would have tasted the samples and form your own opinion on them and actually if you’re coming to Whisky New York which at the time of us filming this is happening tonight and tomorrow, and we will also have a little bit of those Whisky samples as well.&#xA;The person here has asked: Can you explain to us how the flavor and quality of Glenmorangie whiskies today differ from the Glenmorangie whiskies from the previous years and has anything in the last few years with our new owners may be affected that?&#xA;Dr. Bill : Okay. The best way that I would answer that is to say that personally I’m never satisfied of what I do and I’m always striving to improve and make things better. And in my opinion, myself and my team have work very hard over the last decade to tweak the quality and the flavor, and I have been drinking Glenmorangie since I was 24. Now it’s quite a few years ago and I believe the quality now is better that it has ever been and in terms of our new ownership, the last several years has been the most exciting of my career and I believe the most exciting in the history of Glenmorangie and LVMH has invested lots of money, they have given me a lot of money to invest, in developing the distilleries, improving them and making even better product. So in my opinion when we relaunched the brand in 2007 as you know David I tweaked the recipe of original. And what I was trying to do was bring it back to the way I remember it, back in the 80s when I first started drinking it and making a little bit more rounded, a little bit sweeter, and now of course it is being reflected with the many, many awards it has won.&#xA;David : Absolutely it is, so many times that you have resources you have at your disposal now, a vastly superior prior to the new ownership.&#xA;Dr. Bill : We just re-equipped our research laboratory, so were looking at things in&#xA;more detail. So for all of our consumers, I can assure you, you know we just let you, your passionate consumers are our sales, so we’re always trying to be on top of quality as much as we can.&#xA;David : That’s a really interesting thing, it’s absolutely true. Myself included, and&#xA;those of that are still work for the company with the whisky side of things are first and foremost passionate whisky drinkers. The last thing that they would ever want to do is to harm the quality of the spirit in any way, shape or form. It’s just not in our DNA&#xA;Dr. Bill : Not at all.&#xA;David : Absolutely. Next question is from Jason from Facebook. Will Glenmorangie ever go back to the older periods of the limited expressions like Margo, Tain l&#39;Hermitage and the original single malt bottle. I’m sure that’s last of the questions.&#xA;Dr. Bill : Great. You know if I can answer the last one first, at the moment we’re happy with the bottle shapes we have. And you know from my prospect is much more of the liquid that’s inside it. The Tain l&#39;Hermitage finish, the Margot wood finish, the Côtes du Rhône finish were all very successful variants and you know I’ve done this so I’m not necessarily trying and going back to do it again but the one thing I really see is that I’ve got 29 different experimental Glenmorangie projects on the go just now, some of them are completely left field and off the wall. A number of them are building on the success of these finishes so there will be more like it.&#xA;David : And I guess seeming part of this, is that we have been continuing to&#xA;release whiskeys of that pedigree and that sort of lineage with things like the Glenmorangie Artein, Sassicaia casks and the Glenmorangie Sonallta using the Pedro Ximénez sherry casks, we are still continuing that.&#xA;Dr. Bill : It’s a technique that we develop with Glenmorangie country, it’s a&#xA;technique that works very well. I’d like to say we are probably the industry experts of doing it. And so we are going to continue to do things like that but there are lots of other interesting things on the go as well.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cc744e87]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[References &amp; Reading]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb328da09c]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb417da09e]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_thumbnail_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[470]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Questions &amp; Answers Part 3 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part three of five short interview videos with Dr Bill Lumsden head of distilling and whisky creation at the Glenmorangie whisky company.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_robots]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[a:1:{i:0;s:5:&#34;index&#34;;}]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_analytic_object_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[4311]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_internal_links_processed]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&amp;lt;![CDATA[1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phenolic Compounds in Whisky</title>
+      <link>http://localhost:1313/eugenol-guaiacol-whisky/</link>
+      <pubDate>Wed, 08 Apr 2015 19:19:39 +0000</pubDate>
+      <guid>http://localhost:1313/eugenol-guaiacol-whisky/</guid>
+      <description>&lt;p&gt;The phenolic compounds, in particular phenol and cresol along with e&lt;span&gt;ugenol and guaiacol&lt;/span&gt; are the source of particularly strong,  smoky and bitter flavours and aromas found within whisky. Despite the fact that you&amp;rsquo;ve likely never heard these words before these are substances you have encountered during whisky tastings as our sense of smell is sensitive enough to pick out some at as little as 0.1 ppm (or parts per million the equivalent to 1 phenolic molecule per million others).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Bill Lumsden Questions &amp;amp; Answers Continued</title>
+      <link>http://localhost:1313/dr-bill-lumsden-questions-answers-continued/</link>
+      <pubDate>Sat, 28 Mar 2015 08:12:43 +0000</pubDate>
+      <guid>http://localhost:1313/dr-bill-lumsden-questions-answers-continued/</guid>
+      <description>&lt;p&gt;This is part two of the Question and Answer session with Dr. Bill Lumsden, you can see the first video in our previous post &lt;a rel=&#34;prev&#34; href=&#34;http://uiscebeatha.co.uk/glenmorangie-questions-part-1/&#34; title=&#34;Dr Bill Lumsden Questions &amp;amp; Answers&#34;&gt;Questions &amp;amp; Answers part one&lt;/a&gt;]]&amp;gt;&amp;lt;/content:encoded&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;excerpt:encoded&lt;/a&gt;&lt;![CDATA[In the second part Glenmorangie&#39;s five part series of videos Dr Lumsden answers questions posed to the brand across their social media profiles and via email on quality control and consistency. View the full video with transcript]]&gt;&amp;lt;/excerpt:encoded&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_date&lt;/a&gt;&lt;![CDATA[2015-03-28 08:12:43]]&gt;&amp;lt;/wp:post_date&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_date_gmt&lt;/a&gt;&lt;![CDATA[2015-03-28 08:12:43]]&gt;&amp;lt;/wp:post_date_gmt&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:comment_status&lt;/a&gt;&lt;![CDATA[closed]]&gt;&amp;lt;/wp:comment_status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:ping_status&lt;/a&gt;&lt;![CDATA[closed]]&gt;&amp;lt;/wp:ping_status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_name&lt;/a&gt;&lt;![CDATA[dr-bill-lumsden-questions-answers-continued]]&gt;&amp;lt;/wp:post_name&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:status&lt;/a&gt;&lt;![CDATA[publish]]&gt;&amp;lt;/wp:status&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_type&lt;/a&gt;&lt;![CDATA[post]]&gt;&amp;lt;/wp:post_type&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:post_password&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:post_password&amp;gt;&#xA;&lt;category domain=&#34;category&#34; nicename=&#34;news&#34;&gt;&lt;![CDATA[Whisky News]]&gt;&lt;/category&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_edit_last]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[1]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[https://www.youtube.com/embed/EXUiOUfzWaE]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cac44e85]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr. Bill Lumden Whisky Questions &amp; Answers Part 2]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cbc44e86]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&amp;lt;/wp:postmeta&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:postmeta&lt;/a&gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[David: So next question here from one of our Facebook followers, how has the increase in demand for whisky impacted how you developed the blends?&#xA;Bill Lumsden: Excuse me, I know what you mean…Obviously the demand for whisky particularly single malt scotch has dramatically increased through the last decade so most of the distilleries in Scotland have geared up to meet that demand by increasing production. And as you know Glenmorangie 2009 we went up by 50% from 4 million to 6 million liters. Every time you do that is a critical period and you need to stay on top of your production particularly in the distillation side of things. So one of the things I did I fitted a refrigeration coolers to make sure that the spirit continues to flow in to the safe at 20 degrees Celsius or below, but it’s very easy when you are doing something like that to take your eye off the ball and maybe end up with less good quality but it’s something I focused on very much.&#xA;David: Was your concern there when adding those extra ‘stills in the same building that the ambient temperature would be higher and you might have effects on the spirit?&#xA;Bill Lumsden: It was actually…my main concern was to get up to 6 million liters we had to slightly increase the throughput the speed it’s going through and when that happened we need to make sure you are on top of your temperature your flow rates etc.&#xA;David: And folks if you haven’t been to Glenmorangie’s distillery you should really visit it. The ‘still room is always spectacular with these addition stills…&#xA;Bill Lumsden: Do come and see us sometime. The other thing I would say is that, you probably know this already David but the engineers wanted to have the stills put in a separate building.&#xA;David: Yes&#xA;Bill Lumsden: And I absolutely insisted that we fitted them in to the existent still house and it added a lot of money to the cost to the project. But what shame would it have been to have that wall of 6 wash 6 spirits stills…&#xA;David: I can’t agree with you more, it’s spectacular…absolutely. So next question, from Mitchel a Facebook question here, what is the actual maturity of most of the whisky in signet?&#xA;Bill Lumsden: I’m guessing what Mitchel is asking there is the age and my first answer to that is I put signet together generally only once a year and each year the makeup of it will slightly change. And it’s more to do with achieving that final taste profile. In reality I’m using whiskies that are anything from 12 right through to 40 years old. I probably couldn’t even tell you the ages of every whisky the last time I did it.&#xA;David: I heard you say before that you kind of made a burden for your self, it was fiendishly difficult whisky to put together but delicious none the less&#xA;Bill Lumsden: Again, some people absolutely want to locate what’s the average age and I guess of the top of my head it would be around 21 something like that.&#xA;David: Absolutely, as you said it’s more about achieving that flavor profile rather than conforming to a particular sort of rigid ancient profile.&#xA;Bill Lumsden: I want signet to be all about this incredible unusual taste and I think it would be good put age and of course we would have the age of the youngest whisky and that would take away from…That’s not what signet’s about.&#xA;David: To be fairly…In some regards fairly misleading as well considering the oldest stock is going to be in there anyway.&#xA;Bill Lumsden: Absolutely&#xA;David: Great. Next question, the most you are referring to signet coming from Bill on Facebook. Will you ever run out of signets?&#xA;Bill Lumsden: Obviously there is a finite amount of the different component parts of the signet and the rate, I’m using a chemistry term here, the rate determining step is about the chocolate malt we’ve got but I have been making batches of chocolate malt all whisky almost every year. Since when I first did it way back in the 90’s so my feeling is that there is a enough signet to meet…I mean we could substantially increase what we are bottling at the moment so I guess my answer to that is no it’s not likely to happen.&#xA;David: That’s great news to hear for us signet fans and those of you who are at whisky fest San Francisco this year would’ve tasted some very young six year olds single cask sample of chocolate malt that I had with me. So then again you guys would’ve realized that we are still planning for the future.&#xA;Bill Lumsden: How did you get that, did I let you get that?&#xA;David: You did.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cc744e87]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Whisky Q &amp; A Part 2 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_metadesc]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part two of the five part videos Q&amp;A with Dr Bill Lumsden head of distilling and whisky creation for Glenmorangie with full transcript]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_thumbnail_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[356]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[References &amp; Reading]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb328da09c]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb417da09e]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_edit_last]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[1]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[https://www.youtube.com/embed/EXUiOUfzWaE]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_url]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cac44e85]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr. Bill Lumden Whisky Questions &amp; Answers Part 2]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_name]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cbc44e86]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[David: So next question here from one of our Facebook followers, how has the increase in demand for whisky impacted how you developed the blends?&#xA;Bill Lumsden: Excuse me, I know what you mean…Obviously the demand for whisky particularly single malt scotch has dramatically increased through the last decade so most of the distilleries in Scotland have geared up to meet that demand by increasing production. And as you know Glenmorangie 2009 we went up by 50% from 4 million to 6 million liters. Every time you do that is a critical period and you need to stay on top of your production particularly in the distillation side of things. So one of the things I did I fitted a refrigeration coolers to make sure that the spirit continues to flow in to the safe at 20 degrees Celsius or below, but it’s very easy when you are doing something like that to take your eye off the ball and maybe end up with less good quality but it’s something I focused on very much.&#xA;David: Was your concern there when adding those extra ‘stills in the same building that the ambient temperature would be higher and you might have effects on the spirit?&#xA;Bill Lumsden: It was actually…my main concern was to get up to 6 million liters we had to slightly increase the throughput the speed it’s going through and when that happened we need to make sure you are on top of your temperature your flow rates etc.&#xA;David: And folks if you haven’t been to Glenmorangie’s distillery you should really visit it. The ‘still room is always spectacular with these addition stills…&#xA;Bill Lumsden: Do come and see us sometime. The other thing I would say is that, you probably know this already David but the engineers wanted to have the stills put in a separate building.&#xA;David: Yes&#xA;Bill Lumsden: And I absolutely insisted that we fitted them in to the existent still house and it added a lot of money to the cost to the project. But what shame would it have been to have that wall of 6 wash 6 spirits stills…&#xA;David: I can’t agree with you more, it’s spectacular…absolutely. So next question, from Mitchel a Facebook question here, what is the actual maturity of most of the whisky in signet?&#xA;Bill Lumsden: I’m guessing what Mitchel is asking there is the age and my first answer to that is I put signet together generally only once a year and each year the makeup of it will slightly change. And it’s more to do with achieving that final taste profile. In reality I’m using whiskies that are anything from 12 right through to 40 years old. I probably couldn’t even tell you the ages of every whisky the last time I did it.&#xA;David: I heard you say before that you kind of made a burden for your self, it was fiendishly difficult whisky to put together but delicious none the less&#xA;Bill Lumsden: Again, some people absolutely want to locate what’s the average age and I guess of the top of my head it would be around 21 something like that.&#xA;David: Absolutely, as you said it’s more about achieving that flavor profile rather than conforming to a particular sort of rigid ancient profile.&#xA;Bill Lumsden: I want signet to be all about this incredible unusual taste and I think it would be good put age and of course we would have the age of the youngest whisky and that would take away from…That’s not what signet’s about.&#xA;David: To be fairly…In some regards fairly misleading as well considering the oldest stock is going to be in there anyway.&#xA;Bill Lumsden: Absolutely&#xA;David: Great. Next question, the most you are referring to signet coming from Bill on Facebook. Will you ever run out of signets?&#xA;Bill Lumsden: Obviously there is a finite amount of the different component parts of the signet and the rate, I’m using a chemistry term here, the rate determining step is about the chocolate malt we’ve got but I have been making batches of chocolate malt all whisky almost every year. Since when I first did it way back in the 90’s so my feeling is that there is a enough signet to meet…I mean we could substantially increase what we are bottling at the moment so I guess my answer to that is no it’s not likely to happen.&#xA;David: That’s great news to hear for us signet fans and those of you who are at whisky fest San Francisco this year would’ve tasted some very young six year olds single cask sample of chocolate malt that I had with me. So then again you guys would’ve realized that we are still planning for the future.&#xA;Bill Lumsden: How did you get that, did I let you get that?&#xA;David: You did.]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_youtube_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_54d13cc744e87]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Whisky Q &amp; A Part 2 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_yoast_wpseo_metadesc]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part two of the five part videos Q&amp;A with Dr Bill Lumsden head of distilling and whisky creation for Glenmorangie with full transcript]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_thumbnail_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[356]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[References &amp; Reading]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_references]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb328da09c]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[_reading]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[field_551bb417da09e]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_title]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Dr Bill Lumsden Whisky Q &amp; A Part 2 | Uisce Beatha]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_description]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[Watch part two of the five part videos Q&amp;A with Dr Bill Lumsden head of distilling and whisky creation for Glenmorangie with full transcript]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_robots]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[a:1:{i:0;s:5:&#34;index&#34;;}]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_analytic_object_id]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&lt;![CDATA[4315]]&gt;&amp;lt;/wp:meta_value&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_key&lt;/a&gt;&lt;![CDATA[rank_math_internal_links_processed]]&gt;&amp;lt;/wp:meta_key&amp;gt;&#xA;&lt;a href=&#34;#ZgotmplZ&#34;&gt;wp:meta_value&lt;/a&gt;&amp;lt;![CDATA[1&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Continuous Still Vs. Pot Still</title>
       <link>http://localhost:1313/continuous-still-vs-pot-still/</link>
       <pubDate>Fri, 06 Mar 2015 21:25:43 +0000</pubDate>
       <guid>http://localhost:1313/continuous-still-vs-pot-still/</guid>
       <description>&lt;p&gt;The difference of flavour between Malt and Blend whiskies can &lt;em&gt;largely&lt;/em&gt; be traced to three factors, the grain used, the way it&amp;rsquo;s distilled, and the way the alcohol is matured. While the influence of the later is cited as high as 70%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does Whisky Terroir Matter?</title>
+      <link>http://localhost:1313/does-whisky-terroir-matter/</link>
+      <pubDate>Fri, 06 Mar 2015 08:29:37 +0000</pubDate>
+      <guid>http://localhost:1313/does-whisky-terroir-matter/</guid>
+      <description>&lt;p&gt;For those who&amp;rsquo;re not generally fans or knowledgeable about the world of wine, the term terroir refers to &amp;ldquo;the characteristic taste and flavour imparted to a wine by the environment in which it is produced.&amp;rdquo;. While the term has received relatively little coverage in the world of whisky Bruichladdich have conducted a Scotland wide experiment to establish once and for all what difference the terroir makes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Downfall of Irish Whiskey</title>
+      <link>http://localhost:1313/the-downfall-of-irish-whiskey/</link>
+      <pubDate>Wed, 04 Mar 2015 16:47:26 +0000</pubDate>
+      <guid>http://localhost:1313/the-downfall-of-irish-whiskey/</guid>
+      <description>&lt;p&gt;The Irish whiskey industry has experienced a tumultuous history over the last two centuries, from the most prestigious whiskey in the world with an estimated 2,000 legal and illegal stills in operation to only 2 actively producing distilleries in the 1970s but the resurgence has begun. At this time there are now 10 distilleries either operating, being built or being planned. To understand the downfall of this Whisky producing powerhouse it&amp;rsquo;s necessary to go back to the 19th century and learn about the miss-steps, political transformations and technological innovations which brought Irish whisky to its knees and centered production into only two distilleries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Glenmorangie Unseen Pop-Up London</title>
@@ -106,6 +876,27 @@
       <pubDate>Sun, 08 Feb 2015 23:22:25 +0000</pubDate>
       <guid>http://localhost:1313/glenlivet-12-discontinued/</guid>
       <description>&lt;p&gt;Disturbing rumours are surfacing regarding the future of the Glenlivet 12 in key markets, although as yet not clear reports from &lt;a href=&#34;http://www.whisky.de/shop/Schottland/Single-Malt/Highland-G/Glenlivet-12-Jahre--.html&#34;&gt;Whisky.de&lt;/a&gt; suggest that this flagship is to be replaced by the newly launched Founder’s Reserve in some countries, in others these are likely to be sold side by side.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supermarket Whisky Overview</title>
+      <link>http://localhost:1313/supermarket-whiskies/</link>
+      <pubDate>Mon, 02 Feb 2015 14:39:06 +0000</pubDate>
+      <guid>http://localhost:1313/supermarket-whiskies/</guid>
+      <description>&lt;p&gt;When Jim Murray awarded Sainsbury’s 8 year old Dún Léire Irish Single Malt of the Year in 2011 there were more than a few surprised faces both in Ireland and elsewhere. The Dún Léire was in all but name an 8 year old Tyrconnell produced by Cooley Distillery (located on the Cooley Peninsula in County Louth) given an updated supermarket label. Described by Jim Murray as &amp;ldquo;Cooley at its best&amp;rdquo; and &amp;ldquo;brilliant and relatively undiscovered between 7 and 9 years&amp;rdquo;. In case that’s not enough to win you round consider Lidl own brand &lt;a href=&#34;http://www.lidl.co.uk/en/3410.htm&#34;&gt;Maxwell Single Malt Scotch whisky&lt;/a&gt; which is now all but impossible to find. Unfortunately while those particular bottles has been discontinued and your chances of trying it are fairly limited, they do raise the question if a supermarket branded whisky can mask “a very astute and masterful piece of whiskey buying” should you really turn your nose up at an own-brand label? As Martin Isark founder of &lt;strong&gt;Can I Eat It&lt;/strong&gt; explains “Often as not you’ll be drinking a dram that’s really a brand”, unfortunately supermarkets cannot name the distillery which produced the malt on the label. Consequently you are playing something of a lottery, you might be walking away with a superb bottle at a fraction of the cost, at worst you’ve splashed out heavily for a cocktail whisky.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bourbon is Whisky</title>
+      <link>http://localhost:1313/bourbon-is-actually-whiskey/</link>
+      <pubDate>Fri, 30 Jan 2015 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/bourbon-is-actually-whiskey/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a common, albeit understandable misconception that Bourbon is in some way inferior to Scotch Whisky. The truth is that Bourbons are by many accounts some of the finest Whiskies in the world, in fact Jim Murray&amp;rsquo;s 2015 Whisky Bible places the 18 year old Sazerac Rye and the William Larue Weller Bourbon as the second and third finest Whiskies in the world respectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scotch Whisky Industry in Turmoil</title>
+      <link>http://localhost:1313/scotch-whisky-industry-turmoil/</link>
+      <pubDate>Sun, 25 Jan 2015 23:53:33 +0000</pubDate>
+      <guid>http://localhost:1313/scotch-whisky-industry-turmoil/</guid>
+      <description>&lt;p&gt;In the warm afterglow of Burns night it’s perhaps time to once again take a look at the Scotch Whisky and its role and treatment within the UK economy. Recent reports value its contribution at over 5bn placing it higher than steel, iron or computers and half the size of pharmaceuticals but the industry is groaning under taxes and suppliers are looking outwards rather than inwards for growth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site Map</title>

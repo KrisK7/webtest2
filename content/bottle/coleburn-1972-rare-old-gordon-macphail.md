@@ -1,0 +1,20 @@
+---
+title: "Coleburn 1972 Rare Old Gordon &amp; MacPhail"
+date: "Thu, 12 Mar 2020 11:02:31 +0000"
+draft: "false"
+type: "bottle"
+
+description: "Coleburn 1972 Rare Old Gordon & MacPhail is a 20 year old single malt whisky from the Coleburn whisky distillery (located in the Speyside region). The best price currently available is from The Whisky Exchange for only £530.0 we don't have any review data for this single malt whisky yet, let us know what you think in the comments below."
+
+bottletags: ["20 Year Old Whiskies","Best Single Malt Whiskies for under £75","Single Malt Whiskies","Speyside Whiskies","Spirit Caramel (E150A)","Vintage 1972 - Whiskies made in 1972","Whiskies not containing Spirit Caramel (E150A)","Whisky Porn"]
+
+thumbnail_id: 54338
+rank: "0"
+reviews: 0
+price: 530
+
+url: /coleburn-1972-rare-old-gordon-macphail/
+affiliate1: https://www.awin1.com/cread.php?awinmid=400&awinaffid=170041&clickref=&p=https://www.thewhiskyexchange.com/p/24167/coleburn-1972-rare-old-gordon-macphail
+---
+
+

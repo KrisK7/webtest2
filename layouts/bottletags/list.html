@@ -46,10 +46,10 @@
                 </div>
                 {{ end }}
 
-                <!-- Summary -->
+                <!-- Summary 
                 <div class="product-summary">
                     {{ .Summary }}
-                </div>
+                </div> -->
 
                 <!-- Action Buttons -->
                 <div class="product-actions">
@@ -67,7 +67,7 @@
                     </a>
                 </div>
 
-                <!-- Tags -->
+                <!-- Tags 
                 {{ with .Params.bottletags }}
                 <div class="product-tags">
                     {{ range . }}
@@ -76,16 +76,16 @@
                     </a>
                     {{ end }}
                 </div>
-                {{ end }}
+                {{ end }} -->
 
-                <!-- Metadata -->
+                <!-- Metadata 
                 <div class="product-meta">
                     {{ if .Date }}
                     <time datetime="{{ .Date.Format "2006-01-02" }}">
                         {{ .Date.Format "Jan 2, 2006" }}
                     </time>
                     {{ end }}
-                </div>
+                </div> -->
             </div>
         </article>
         {{ end }}

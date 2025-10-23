@@ -1,13 +1,16 @@
 ---
-title: "Design System Reference"
+title: "Design System"
 layout: "dev-reference"
 description: "Complete reference of all design tokens, components, and styles"
-menu: "main"
+draft: true
+
 weight: 100
+noindex: true
 ---
 
 # Design System
 
+[//] menu: "main" [//]
 This living style guide documents all design tokens, components, and patterns used across the website. All components automatically adapt to light and dark themes.
 
 ## Color Palette

@@ -19,4 +19,4 @@ product_url: /cardhu-gold-reserve-cask-selection/
 url: /cardhu-gold-reserve-cask-selection/
 ---
 
-Cardhu Gold Reserve Cask Selection is a single malt whisky from the Cardhu whisky distillery (located in the Speyside region). Rated an average of 4.7 out of 5 by 282 reviewers and available from Amazon for only £34.95, falling slightly short of liquid gold but this in a solid everyday single malt whisky.
+Cardhu Gold Reserve Cask Selection is a single malt whisky <!--more--> from the Cardhu whisky distillery (located in the Speyside region). Rated an average of 4.7 out of 5 by 282 reviewers and available from Amazon for only £34.95, falling slightly short of liquid gold but this in a solid everyday single malt whisky.

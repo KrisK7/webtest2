@@ -1,0 +1,28 @@
+---
+title: "Jim McEwan of Bruichladdich to Retire"
+date: "Sun, 26 Apr 2015 07:25:53 +0000"
+draft: "false"
+type: "post"
+
+description: "Jim McEwan the instantly recognisable face of Bruichladdich has announced his plans to retire in July, Learn more about Jim & his legacy with Uisce Beatha"
+
+categories: ["Whisky News"]
+
+thumbnail_id: 522
+
+url: /jim-mcewan-of-bruichladdich-to-retire/
+---
+
+Legendary master distiller Jim McEwan has announced plans to retire in July 2015, Although he had previously been planning on staying through until 2016 he's taken the decision to retire a year early to spend some more time with his grandchildren. He leaves Bruichladdich the 'Cinderella distillery' he helped revive in the hands of incoming master blender Adam Hannett and Allan Logan the distillery manager.
+<h2>Jim McEwan's Story</h2>
+With over 52 years in the whisky business Jim is perhaps the most recognisable Islay whisky figures if not one of the most recognisable faces in the Scotch whisky. He claims his desire was sparked as a child watching Bowmore coopers on break, "the smell of the sweat and the oak and the whisky, and just that masculine smell, I thought, 'Wow, I want to join this gang'". So in 1963, at the age of only 15, Jim became an <span>apprentice cooper for Bowmore, he would eventually work his way up the ranks learning virtually every aspect of the role from malting, to mashing and distilling, warehouse keeping, blending and even marketing as he became Global Ambassador for Bowmore. Ultimately Jim became the </span>Bowmore distillery manager, but where many would have been content to finish their career at this height Jim sought out a new challenge, to revive Bruichladdich.
+<h2>Bruichladdich Distillery</h2>
+Built by William, Robert &amp; John<span> Harvey, the latest three brothers of long line of whisky makers Bruichladdich was the first purpose built distillery on Islay with a capacity of some 94,000 gallons (426,760 litres). Following the death of William Harvey in 1934 the distillery changed hands repeatedly, finally in 1990 the then current owners Invergordon distillers were floated on the London Stock Exchange. Being acquired in 1993 by Whyte and Mackay Bruichladdich was mothballed the next year as surplus to requirements. Although a relatively unknown - most of its whisky had been used for blending - the closure in 1994 of this historic distillery was a significant loss to both Islay and the industry as a whole.</span>
+<h2>Bruichladdich Reborn</h2>
+On the 19 of December 2000 Bruichladdich would once more change hands, this time being taken over by a group of private investors led by wine merchant Mark Reynier &amp; Simon Coughlin acquired the distillery for some £6.5 million. Their first choice for product director was Jim McEwan, and he accepted setting the stage for one of the most interesting, imaginative and innovative distilleries currently operating in Scotland today.
+<h3>Restarting the Stills</h3>
+The distillery despite capacity increases hadn't seen significant investment in equipment, even today the distillation is done without a computer, and much of what remained was far form production ready so they turned to <span>Duncan MacGillivray. </span> The previously the engineer and then head brewer at Bruichladdich, returned as general manager, and with heroic efforts from all involved the distillery resumed operation on September 11th 2001, almost 8 years after it ceased. Bruichladdich was once again an active distillery
+<h2>Jim McEwan's Legacy</h2>
+Since 2001 the distillery has helped Islay farmers buy equipment and resume barley production, began a range of <a href="http://uiscebeatha.co.uk/does-whisky-terroir-matter/" title="Does Whisky Terroir Matter?">terroir experiments</a>, released wave after wave of unique whisky varietals and collected <a href="http://www.bruichladdich.com/news-library/awards/all">countless awards</a>. While Jim's departure is a loss to the industry, he's left quite a legacy in his barley varietals, the heavily peated Octomore, and even the Botanist Islay Dry Gin but all good things must eventually come to an end. As he says himself:
+<blockquote>“It’s a job complete, you know…I’ve been doing this a long time, but I’ve got a feeling I’ve never had before, and that feeling is the journey’s over, you’ve done it, you’ve survived…you’re leaving behind something really worthwhile in a small community…we’ve got 80 jobs here now, and that’s phenomenal. It’s time to move on and focus on the bits you’ve missed.”</blockquote>
+Jim will retire in July to spend more time with his family and to continue to support his favorite charity <a href=" http://spiritaid.org.uk/">Spirit Aid</a>, many thanks Jim, Sláinte Mhath!

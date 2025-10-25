@@ -1,5 +1,5 @@
 ---
-title: "Glenfiddich&#039;s Gravity Defying Whisky"
+title: "Glenfiddich's Gravity Defying Whisky"
 date: "Wed, 04 Nov 2015 13:54:20 +0000"
 draft: "false"
 type: "post"
